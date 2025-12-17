@@ -1,0 +1,10 @@
+store_id,name,store_type,phone,email,city,province,postal_code,country,is_active,created_at,updated_at
+1,Online Store,online,+1-647-600-3057,online.store@omniretail.ca,Toronto,Ontario,M5V 2T6,Canada,1,2024-08-04 16:46:42,2024-11-21 18:24:53
+2,Downtown Toronto,physical,+1-905-549-5030,downtown.toronto@omniretail.ca,Toronto,Ontario,M5H 2N2,Canada,1,2025-07-25 03:17:45,2025-10-21 11:28:00
+3,Midtown Toronto,physical,+1-905-988-7922,midtown.toronto@omniretail.ca,Toronto,Ontario,M4S 1Z9,Canada,1,2024-12-06 07:19:33,2025-01-18 21:53:10
+4,Mississauga Square One,physical,+1-416-981-9383,mississauga.square.one@omniretail.ca,Mississauga,Ontario,L5B 2C9,Canada,1,2024-01-26 14:37:27,2024-04-19 17:34:46
+5,Brampton Central,physical,+1-416-597-9021,brampton.central@omniretail.ca,Brampton,Ontario,L6X 1A4,Canada,1,2023-10-30 22:35:59,2023-11-16 18:41:05
+6,Ottawa Market,physical,+1-437-415-7071,ottawa.market@omniretail.ca,Ottawa,Ontario,K1N 5Y2,Canada,1,2024-11-04 06:10:38,2025-03-11 12:23:10
+7,Hamilton Centre,physical,+1-613-726-6624,hamilton.centre@omniretail.ca,Hamilton,Ontario,L8P 1A1,Canada,1,2023-05-03 10:34:58,2023-06-21 07:47:23
+8,Niagara Falls Outlet,physical,+1-905-946-6930,niagara.falls.outlet@omniretail.ca,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2025-11-16 14:31:28,2026-04-28 15:53:35
+9,Kitchener Fairway,physical,+1-613-392-7417,kitchener.fairway@omniretail.ca,Kitchener,Ontario,N2A 2N3,Canada,1,2024-01-07 01:37:04,2024-04-21 03:20:10

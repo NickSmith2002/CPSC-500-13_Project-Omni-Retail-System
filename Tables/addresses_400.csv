@@ -1,0 +1,401 @@
+address_id,customer_id,address_type,line1,line2,city,province,postal_code,country,is_default,created_at,updated_at
+1,1,shipping,7648 College St,,Toronto,Ontario,M5V 2T6,Canada,1,2025-08-17 02:31:42,2026-01-06 00:42:41
+2,2,shipping,8557 King St,,Toronto,Ontario,M4B 1B3,Canada,1,2023-05-12 01:44:52,2023-08-13 00:12:08
+3,3,shipping,701 Yonge St,Apt 195,Mississauga,Ontario,L5B 2T4,Canada,1,2024-08-29 13:29:33,2024-12-08 17:10:15
+4,4,shipping,8841 Harbord St,,Kingston,Ontario,K7L 2Z1,Canada,1,2024-06-11 20:35:00,2024-06-26 05:40:54
+5,5,shipping,561 Front St,,Ottawa,Ontario,K1P 1J1,Canada,1,2025-10-01 12:41:45,2026-03-18 03:59:16
+6,6,shipping,3294 Front St,,Mississauga,Ontario,L5B 2T4,Canada,1,2023-12-23 19:30:55,2024-03-19 12:11:54
+7,7,billing,6082 Front St,,Hamilton,Ontario,L8P 1A1,Canada,1,2024-04-08 15:54:48,2024-09-14 14:31:49
+8,8,billing,9645 College St,,London,Ontario,N6A 3N7,Canada,1,2025-01-30 18:55:42,2025-06-19 17:42:50
+9,9,shipping,7585 Queen St,,Kingston,Ontario,K7L 2Z1,Canada,1,2025-04-27 17:11:28,2025-05-21 06:27:40
+10,10,billing,7915 Dundas St,,Kitchener,Ontario,N2G 1H2,Canada,1,2023-07-20 20:34:53,2023-11-02 16:33:17
+11,11,shipping,2314 Spadina Ave,Apt 177,Ottawa,Ontario,K1P 1J1,Canada,1,2025-06-22 15:03:53,2025-08-19 22:06:13
+12,12,shipping,2850 Queen St,Apt 25,Toronto,Ontario,M5V 2T6,Canada,1,2024-03-02 06:04:03,2024-04-27 03:21:09
+13,13,other,3984 Front St,,Toronto,Ontario,M4B 1B3,Canada,1,2025-02-04 06:03:21,2025-04-20 04:38:48
+14,14,billing,3847 Yonge St,Apt 752,Toronto,Ontario,M4B 1B3,Canada,1,2024-10-08 16:20:33,2025-01-01 04:42:25
+15,15,shipping,1124 Queen St,Apt 776,Toronto,Ontario,M5V 2T6,Canada,1,2023-11-24 21:07:05,2024-02-04 15:34:21
+16,16,shipping,2713 College St,Apt 896,Kitchener,Ontario,N2G 1H2,Canada,1,2024-01-31 21:51:56,2024-04-27 19:43:17
+17,17,billing,1428 Dundas St,,Kitchener,Ontario,N2G 1H2,Canada,1,2025-08-16 04:12:48,2026-02-02 05:15:39
+18,18,shipping,381 Spadina Ave,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2025-01-26 14:42:09,2025-06-28 19:48:14
+19,19,billing,9952 Bloor St,Apt 395,London,Ontario,N6A 3N7,Canada,1,2025-10-05 21:51:30,2026-03-13 17:56:27
+20,20,billing,7442 Yonge St,Apt 495,Kitchener,Ontario,N2G 1H2,Canada,1,2023-12-29 08:52:32,2024-06-07 05:30:05
+21,21,billing,7971 Front St,,Kingston,Ontario,K7L 2Z1,Canada,1,2025-10-01 23:54:36,2025-11-23 05:24:32
+22,22,billing,9250 King St,Apt 798,London,Ontario,N6A 3N7,Canada,1,2024-05-21 22:12:08,2024-08-23 08:37:34
+23,23,billing,695 Yonge St,Apt 679,Toronto,Ontario,M5V 2T6,Canada,1,2023-12-21 09:49:12,2024-05-02 00:06:15
+24,24,billing,2414 Dundas St,,Toronto,Ontario,M4B 1B3,Canada,1,2025-10-23 00:01:01,2025-11-02 23:38:01
+25,25,shipping,2763 Bay St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-10-02 08:17:58,2023-11-10 16:26:35
+26,26,billing,9490 College St,Apt 255,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2025-01-28 21:27:48,2025-06-30 16:43:53
+27,27,shipping,2796 Front St,,Mississauga,Ontario,L5B 2T4,Canada,1,2025-02-02 15:10:11,2025-07-22 01:19:21
+28,28,other,5936 Bloor St,Apt 29,Hamilton,Ontario,L8P 1A1,Canada,1,2024-08-27 06:45:32,2024-09-04 11:50:09
+29,29,billing,2497 Dundas St,Apt 593,Kitchener,Ontario,N2G 1H2,Canada,1,2025-11-23 01:43:17,2026-05-10 20:51:26
+30,30,shipping,6650 Bay St,Apt 565,Toronto,Ontario,M5V 2T6,Canada,1,2024-09-21 18:00:30,2025-01-16 13:32:22
+31,31,shipping,4157 Front St,,London,Ontario,N6A 3N7,Canada,1,2023-04-22 04:18:05,2023-09-18 21:13:58
+32,32,shipping,5218 Bloor St,Apt 550,Toronto,Ontario,M5V 2T6,Canada,1,2023-07-29 09:54:56,2023-11-19 16:12:37
+33,33,billing,7062 Bay St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2023-05-16 11:28:09,2023-10-06 02:34:54
+34,34,billing,4424 Spadina Ave,,Toronto,Ontario,M4B 1B3,Canada,1,2023-07-18 12:38:15,2023-10-22 23:57:40
+35,35,billing,7727 Bloor St,,Kingston,Ontario,K7L 2Z1,Canada,1,2024-01-30 06:36:18,2024-04-11 06:19:43
+36,36,shipping,5957 Spadina Ave,,Mississauga,Ontario,L5B 2T4,Canada,1,2024-04-25 05:13:07,2024-07-15 14:20:29
+37,37,billing,6701 Bay St,Apt 515,London,Ontario,N6A 3N7,Canada,1,2025-06-02 16:52:41,2025-11-20 04:02:10
+38,38,shipping,1752 Yonge St,Apt 646,Hamilton,Ontario,L8P 1A1,Canada,1,2024-07-30 05:16:16,2024-12-05 03:38:23
+39,39,other,680 Harbord St,,Mississauga,Ontario,L5B 2T4,Canada,1,2024-01-04 22:45:40,2024-06-14 02:35:46
+40,40,shipping,7315 Bay St,Apt 576,Ottawa,Ontario,K1P 1J1,Canada,1,2024-03-25 14:49:15,2024-07-19 18:40:08
+41,41,shipping,5511 Queen St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2023-01-19 17:48:23,2023-06-14 23:03:47
+42,42,shipping,8974 Front St,Apt 270,London,Ontario,N6A 3N7,Canada,1,2024-01-28 17:50:11,2024-05-30 11:18:53
+43,43,billing,9347 Dundas St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-03-29 02:17:11,2023-09-15 16:18:42
+44,44,billing,1718 Queen St,,Kitchener,Ontario,N2G 1H2,Canada,1,2023-04-11 18:37:46,2023-08-05 07:54:58
+45,45,shipping,155 Spadina Ave,,Kitchener,Ontario,N2G 1H2,Canada,1,2025-10-05 18:03:56,2025-12-06 02:23:11
+46,46,shipping,7914 Dundas St,,London,Ontario,N6A 3N7,Canada,1,2024-10-28 19:51:19,2025-01-03 03:42:13
+47,47,other,8363 Dundas St,,Mississauga,Ontario,L5B 2T4,Canada,1,2024-09-19 10:45:15,2024-09-28 03:56:02
+48,48,shipping,3049 Bay St,,Brampton,Ontario,L6X 3P4,Canada,1,2025-10-25 15:58:23,2026-04-02 23:08:28
+49,49,shipping,2352 Bloor St,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-10-01 07:03:26,2024-02-13 06:24:37
+50,50,other,9020 Front St,,Brampton,Ontario,L6X 3P4,Canada,1,2025-07-21 10:36:34,2025-10-01 15:23:16
+51,51,shipping,2185 Harbord St,,Kitchener,Ontario,N2G 1H2,Canada,1,2025-01-13 09:25:30,2025-01-17 06:49:29
+52,52,shipping,5212 Bloor St,,Mississauga,Ontario,L5B 2T4,Canada,1,2025-08-10 20:36:16,2025-09-02 11:45:19
+53,53,billing,4978 Spadina Ave,Apt 502,Kingston,Ontario,K7L 2Z1,Canada,1,2023-05-27 01:05:35,2023-09-08 13:00:38
+54,54,shipping,2635 Front St,Apt 671,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2025-01-12 03:02:31,2025-05-21 14:45:31
+55,55,billing,3839 Dundas St,Apt 912,Brampton,Ontario,L6X 3P4,Canada,1,2023-02-05 10:04:23,2023-03-13 22:18:19
+56,56,shipping,2046 Dundas St,,Ottawa,Ontario,K1P 1J1,Canada,1,2024-05-02 02:06:22,2024-09-21 15:12:47
+57,57,shipping,7431 Dundas St,,Toronto,Ontario,M4B 1B3,Canada,1,2023-11-05 10:44:25,2023-11-30 04:39:27
+58,58,shipping,8015 Bloor St,,Brampton,Ontario,L6X 3P4,Canada,1,2023-03-29 20:14:11,2023-05-11 08:37:45
+59,59,billing,9375 King St,,Brampton,Ontario,L6X 3P4,Canada,1,2025-07-26 11:21:22,2025-11-16 06:09:38
+60,60,shipping,9740 Bloor St,,Kingston,Ontario,K7L 2Z1,Canada,1,2025-09-26 22:03:36,2026-02-18 09:22:27
+61,61,shipping,2423 College St,,Kitchener,Ontario,N2G 1H2,Canada,1,2024-05-13 21:11:44,2024-08-19 20:44:58
+62,62,shipping,7662 Queen St,,Mississauga,Ontario,L5B 2T4,Canada,1,2024-09-14 06:28:43,2024-09-16 02:08:18
+63,63,billing,7790 Bay St,,Brampton,Ontario,L6X 3P4,Canada,1,2024-03-30 10:53:57,2024-04-27 06:43:55
+64,64,shipping,8904 Bloor St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2024-03-08 19:53:50,2024-05-23 22:08:38
+65,65,shipping,9905 Dundas St,Apt 422,Kitchener,Ontario,N2G 1H2,Canada,1,2025-06-09 19:16:32,2025-07-06 11:53:57
+66,66,shipping,8042 Yonge St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2024-11-29 11:18:44,2025-04-09 09:36:48
+67,67,shipping,1518 Front St,,London,Ontario,N6A 3N7,Canada,1,2023-10-29 08:26:41,2023-11-22 19:35:35
+68,68,billing,5672 Spadina Ave,,Brampton,Ontario,L6X 3P4,Canada,1,2024-08-28 00:35:55,2025-02-23 05:55:18
+69,69,billing,2334 Yonge St,Apt 803,Kitchener,Ontario,N2G 1H2,Canada,1,2024-06-25 23:24:07,2024-12-16 18:07:29
+70,70,shipping,310 Bloor St,,Kitchener,Ontario,N2G 1H2,Canada,1,2023-11-22 08:07:21,2023-12-27 22:28:42
+71,71,billing,6464 Yonge St,Apt 867,Ottawa,Ontario,K1P 1J1,Canada,1,2025-07-04 22:35:14,2025-08-28 09:03:50
+72,72,billing,9682 Queen St,,Toronto,Ontario,M5V 2T6,Canada,1,2025-11-07 01:59:10,2026-01-15 02:18:11
+73,73,shipping,9287 Queen St,,Toronto,Ontario,M4B 1B3,Canada,1,2025-05-19 13:31:32,2025-11-09 07:19:08
+74,74,billing,4180 Spadina Ave,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2024-02-27 09:51:08,2024-07-27 21:06:09
+75,75,shipping,4506 Front St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2025-08-05 04:54:51,2025-10-17 11:58:02
+76,76,shipping,4778 King St,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-09-02 00:14:52,2023-09-25 01:38:23
+77,77,other,7709 Front St,,Toronto,Ontario,M5V 2T6,Canada,1,2025-02-13 14:37:31,2025-03-19 03:43:13
+78,78,billing,8847 Spadina Ave,,Hamilton,Ontario,L8P 1A1,Canada,1,2024-12-08 08:00:29,2025-03-11 18:40:21
+79,79,shipping,150 King St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-06-25 13:33:14,2023-09-30 20:15:25
+80,80,shipping,6543 Yonge St,,Kingston,Ontario,K7L 2Z1,Canada,1,2024-05-02 15:36:40,2024-10-11 11:58:36
+81,81,billing,7069 Front St,Apt 578,Kitchener,Ontario,N2G 1H2,Canada,1,2023-07-14 15:09:47,2023-10-26 06:16:46
+82,82,billing,6933 Dundas St,,Ottawa,Ontario,K1P 1J1,Canada,1,2024-04-27 16:45:14,2024-08-17 16:41:34
+83,83,billing,1414 Bay St,,Mississauga,Ontario,L5B 2T4,Canada,1,2024-12-24 00:17:15,2025-02-14 10:37:26
+84,84,shipping,3766 Queen St,,Kingston,Ontario,K7L 2Z1,Canada,1,2024-01-09 23:38:11,2024-04-04 17:44:25
+85,85,shipping,2776 Yonge St,Apt 374,Toronto,Ontario,M5V 2T6,Canada,1,2023-03-06 09:41:09,2023-06-03 03:37:44
+86,86,shipping,4731 Dundas St,Apt 424,Brampton,Ontario,L6X 3P4,Canada,1,2025-05-24 14:18:21,2025-07-13 23:04:01
+87,87,billing,4051 Bay St,Apt 664,Mississauga,Ontario,L5B 2T4,Canada,1,2023-05-08 23:13:54,2023-06-24 09:37:09
+88,88,other,9032 Yonge St,,London,Ontario,N6A 3N7,Canada,1,2025-05-15 20:36:30,2025-06-03 17:29:32
+89,89,shipping,2768 Bay St,,Toronto,Ontario,M4B 1B3,Canada,1,2023-11-16 17:21:31,2024-01-20 17:22:00
+90,90,billing,5130 Queen St,,Toronto,Ontario,M4B 1B3,Canada,1,2023-10-16 07:43:24,2023-12-13 05:04:35
+91,91,billing,2656 Yonge St,,Toronto,Ontario,M4B 1B3,Canada,1,2023-11-17 07:31:00,2024-04-24 09:01:51
+92,92,shipping,71 Queen St,Apt 976,London,Ontario,N6A 3N7,Canada,1,2024-04-07 03:25:17,2024-05-02 01:00:39
+93,93,shipping,8022 King St,,Hamilton,Ontario,L8P 1A1,Canada,1,2025-09-13 16:07:54,2026-01-28 05:34:25
+94,94,billing,9697 Dundas St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2024-09-07 10:12:15,2024-11-25 23:25:09
+95,95,shipping,4817 College St,Apt 447,Toronto,Ontario,M4B 1B3,Canada,1,2023-08-22 23:20:52,2024-01-29 13:22:58
+96,96,shipping,731 College St,,Kingston,Ontario,K7L 2Z1,Canada,1,2025-06-02 17:16:55,2025-10-07 09:57:13
+97,97,billing,164 Queen St,Apt 448,Brampton,Ontario,L6X 3P4,Canada,1,2024-05-22 12:08:28,2024-07-17 13:08:29
+98,98,shipping,5173 College St,Apt 203,Toronto,Ontario,M5V 2T6,Canada,1,2024-01-29 06:41:11,2024-06-21 01:34:14
+99,99,billing,8117 Harbord St,Apt 854,Toronto,Ontario,M4B 1B3,Canada,1,2023-02-17 15:40:20,2023-03-28 19:36:55
+100,100,other,6051 Bay St,Apt 970,Kingston,Ontario,K7L 2Z1,Canada,1,2025-08-19 23:48:03,2025-08-20 21:43:28
+101,101,shipping,3319 Queen St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-12-15 20:26:19,2024-01-30 13:46:39
+102,102,other,989 Bay St,Apt 102,Mississauga,Ontario,L5B 2T4,Canada,1,2024-07-17 07:37:44,2024-09-18 11:05:38
+103,103,shipping,7542 Bay St,,Kitchener,Ontario,N2G 1H2,Canada,1,2024-02-19 09:36:24,2024-05-01 05:26:51
+104,104,shipping,9984 Spadina Ave,,Kitchener,Ontario,N2G 1H2,Canada,1,2024-03-28 22:08:31,2024-05-26 18:03:16
+105,105,billing,4893 Bay St,Apt 544,Kingston,Ontario,K7L 2Z1,Canada,1,2025-08-23 00:48:05,2026-01-09 18:46:34
+106,106,other,7116 Spadina Ave,,Kitchener,Ontario,N2G 1H2,Canada,1,2023-07-06 11:08:54,2023-07-16 04:54:04
+107,107,shipping,8411 Bloor St,,Toronto,Ontario,M5V 2T6,Canada,1,2025-03-03 16:17:46,2025-07-05 20:50:25
+108,108,shipping,3459 Harbord St,,London,Ontario,N6A 3N7,Canada,1,2023-02-26 15:49:17,2023-03-31 17:34:37
+109,109,shipping,2929 Spadina Ave,Apt 838,Kitchener,Ontario,N2G 1H2,Canada,1,2024-08-16 12:25:44,2024-12-14 05:10:06
+110,110,billing,7547 Bloor St,,Kitchener,Ontario,N2G 1H2,Canada,1,2024-12-02 13:24:11,2025-02-14 07:38:02
+111,111,shipping,5348 Harbord St,,Kitchener,Ontario,N2G 1H2,Canada,1,2023-06-05 08:38:22,2023-07-01 13:05:59
+112,112,billing,2455 Dundas St,Apt 196,London,Ontario,N6A 3N7,Canada,1,2023-05-13 13:46:30,2023-10-21 12:45:21
+113,113,billing,6375 Harbord St,,Ottawa,Ontario,K1P 1J1,Canada,1,2024-11-10 12:57:23,2025-02-07 03:56:49
+114,114,shipping,8667 Bloor St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2023-03-01 23:27:08,2023-07-14 08:47:22
+115,115,shipping,7844 Queen St,,Kingston,Ontario,K7L 2Z1,Canada,1,2024-08-16 10:10:19,2024-09-06 16:32:39
+116,116,billing,5924 Queen St,Apt 633,Toronto,Ontario,M4B 1B3,Canada,1,2024-05-16 04:37:23,2024-06-24 18:20:35
+117,117,billing,5317 Front St,,Kitchener,Ontario,N2G 1H2,Canada,1,2023-08-03 20:41:25,2024-01-01 08:36:00
+118,118,shipping,6984 King St,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-06-30 19:12:26,2023-11-06 19:22:26
+119,119,shipping,3377 College St,,Toronto,Ontario,M4B 1B3,Canada,1,2025-11-23 13:37:43,2026-03-25 16:08:50
+120,120,billing,3761 Harbord St,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-11-11 05:24:29,2024-01-04 18:00:17
+121,121,billing,8623 Front St,Apt 33,Kingston,Ontario,K7L 2Z1,Canada,1,2025-01-14 10:36:18,2025-04-11 04:39:37
+122,122,billing,7633 King St,Apt 869,Brampton,Ontario,L6X 3P4,Canada,1,2023-01-04 00:25:38,2023-04-27 02:32:37
+123,123,billing,2679 Bay St,,London,Ontario,N6A 3N7,Canada,1,2024-06-24 20:22:50,2024-11-26 15:48:15
+124,124,other,564 King St,Apt 877,Ottawa,Ontario,K1P 1J1,Canada,1,2025-01-11 09:06:24,2025-01-19 07:54:18
+125,125,billing,1836 Queen St,Apt 908,Kitchener,Ontario,N2G 1H2,Canada,1,2024-09-17 03:23:38,2025-02-05 16:21:47
+126,126,shipping,8106 Spadina Ave,,Hamilton,Ontario,L8P 1A1,Canada,1,2024-03-20 08:45:12,2024-05-15 04:35:32
+127,127,shipping,5444 Front St,,London,Ontario,N6A 3N7,Canada,1,2023-08-31 03:35:25,2023-11-19 05:39:11
+128,128,shipping,8089 Front St,,Hamilton,Ontario,L8P 1A1,Canada,1,2025-10-04 18:08:56,2025-11-15 00:31:46
+129,129,shipping,7315 College St,,Hamilton,Ontario,L8P 1A1,Canada,1,2024-09-24 00:58:33,2025-01-30 22:28:48
+130,130,shipping,831 Spadina Ave,Apt 748,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2023-10-02 12:03:01,2024-01-14 19:10:27
+131,131,shipping,3423 Queen St,Apt 448,Brampton,Ontario,L6X 3P4,Canada,1,2023-12-29 07:42:18,2024-03-04 00:40:03
+132,132,billing,4804 Yonge St,Apt 122,Ottawa,Ontario,K1P 1J1,Canada,1,2025-01-09 09:10:44,2025-03-11 23:04:16
+133,133,other,478 Spadina Ave,Apt 489,London,Ontario,N6A 3N7,Canada,1,2024-08-11 15:22:29,2024-09-04 09:44:14
+134,134,billing,7614 Bloor St,,Toronto,Ontario,M5V 2T6,Canada,1,2024-03-12 06:17:50,2024-08-21 16:27:07
+135,135,shipping,6740 Harbord St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-09-14 11:35:25,2023-10-23 02:58:48
+136,136,billing,8239 Dundas St,,London,Ontario,N6A 3N7,Canada,1,2025-03-15 05:36:04,2025-08-24 11:34:45
+137,137,billing,7990 Yonge St,,Hamilton,Ontario,L8P 1A1,Canada,1,2023-08-22 10:48:18,2023-10-28 06:25:13
+138,138,billing,1208 Yonge St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-11-06 04:53:44,2023-12-01 10:14:20
+139,139,billing,7410 Front St,Apt 326,London,Ontario,N6A 3N7,Canada,1,2024-06-05 00:08:37,2024-06-21 11:17:58
+140,140,shipping,591 Bay St,,Kitchener,Ontario,N2G 1H2,Canada,1,2024-02-04 06:53:58,2024-03-01 01:13:08
+141,141,billing,3866 Yonge St,,Ottawa,Ontario,K1P 1J1,Canada,1,2024-04-18 11:12:51,2024-06-23 10:41:20
+142,142,billing,1104 Spadina Ave,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-08-05 19:18:12,2023-11-13 19:34:09
+143,143,billing,652 Spadina Ave,,Hamilton,Ontario,L8P 1A1,Canada,1,2025-11-15 20:05:56,2026-02-13 18:56:28
+144,144,shipping,5780 Front St,,Kingston,Ontario,K7L 2Z1,Canada,1,2024-07-01 09:23:56,2024-09-29 01:05:13
+145,145,billing,3351 Queen St,,Toronto,Ontario,M5V 2T6,Canada,1,2024-06-21 11:38:45,2024-06-30 12:30:58
+146,146,shipping,8342 Front St,,Toronto,Ontario,M5V 2T6,Canada,1,2024-08-23 11:14:25,2025-02-08 22:10:08
+147,147,billing,3236 Harbord St,,Mississauga,Ontario,L5B 2T4,Canada,1,2025-04-18 16:27:11,2025-07-18 05:37:42
+148,148,shipping,133 King St,Apt 660,Hamilton,Ontario,L8P 1A1,Canada,1,2023-11-20 16:49:30,2024-05-04 00:59:57
+149,149,shipping,7460 Spadina Ave,,Hamilton,Ontario,L8P 1A1,Canada,1,2024-07-30 06:43:37,2024-08-28 15:39:31
+150,150,billing,7050 Bloor St,Apt 71,Toronto,Ontario,M5V 2T6,Canada,1,2024-07-22 22:50:50,2024-11-14 01:39:42
+151,151,billing,7701 King St,Apt 223,Kingston,Ontario,K7L 2Z1,Canada,1,2025-06-13 09:22:44,2025-10-19 18:26:21
+152,152,other,5512 Bay St,,Kitchener,Ontario,N2G 1H2,Canada,1,2023-05-03 00:04:41,2023-10-13 07:59:25
+153,153,shipping,46 College St,,Ottawa,Ontario,K1P 1J1,Canada,1,2024-12-21 08:55:36,2025-03-06 19:22:21
+154,154,other,6937 Harbord St,,Hamilton,Ontario,L8P 1A1,Canada,1,2024-12-28 02:51:55,2025-01-03 09:46:58
+155,155,billing,5707 Yonge St,,Mississauga,Ontario,L5B 2T4,Canada,1,2023-02-22 06:37:21,2023-07-27 23:03:19
+156,156,shipping,3913 College St,,London,Ontario,N6A 3N7,Canada,1,2024-03-09 22:20:44,2024-03-17 07:59:19
+157,157,shipping,8197 Bay St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-08-03 21:51:17,2023-11-03 14:36:26
+158,158,shipping,4387 Dundas St,,Toronto,Ontario,M5V 2T6,Canada,1,2025-07-20 09:15:43,2025-10-08 05:14:51
+159,159,shipping,5401 Bay St,,London,Ontario,N6A 3N7,Canada,1,2025-10-25 15:38:04,2026-01-22 23:24:45
+160,160,billing,5990 Spadina Ave,,Kitchener,Ontario,N2G 1H2,Canada,1,2025-06-30 15:03:43,2025-08-03 16:48:17
+161,161,billing,7687 Yonge St,Apt 896,Kingston,Ontario,K7L 2Z1,Canada,1,2024-12-06 19:43:47,2025-05-03 10:46:17
+162,162,billing,6856 Bloor St,Apt 641,Toronto,Ontario,M5V 2T6,Canada,1,2025-05-15 04:26:27,2025-08-25 12:01:11
+163,163,other,5138 King St,Apt 405,Kitchener,Ontario,N2G 1H2,Canada,1,2025-03-06 23:15:00,2025-05-26 12:50:25
+164,164,shipping,4094 Spadina Ave,Apt 999,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2023-01-27 00:08:38,2023-04-23 12:00:28
+165,165,billing,6156 Harbord St,,Kitchener,Ontario,N2G 1H2,Canada,1,2024-02-01 14:44:59,2024-04-27 12:03:25
+166,166,shipping,8709 Front St,Apt 624,Kitchener,Ontario,N2G 1H2,Canada,1,2025-11-01 05:00:27,2026-02-03 11:05:47
+167,167,shipping,2918 Bloor St,,Mississauga,Ontario,L5B 2T4,Canada,1,2023-10-22 04:17:50,2024-04-02 22:56:51
+168,168,shipping,372 College St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2025-06-28 06:10:13,2025-09-01 08:47:26
+169,169,billing,615 Harbord St,Apt 252,Ottawa,Ontario,K1P 1J1,Canada,1,2024-04-10 03:45:02,2024-08-30 17:38:47
+170,170,billing,3796 College St,Apt 536,Toronto,Ontario,M5V 2T6,Canada,1,2023-08-26 19:04:26,2023-11-28 20:28:49
+171,171,shipping,1955 Dundas St,Apt 852,Brampton,Ontario,L6X 3P4,Canada,1,2024-09-01 16:46:16,2024-09-17 22:24:15
+172,172,other,3517 Front St,Apt 804,Toronto,Ontario,M4B 1B3,Canada,1,2025-06-14 00:48:06,2025-08-22 01:54:19
+173,173,shipping,2390 Yonge St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2023-11-02 19:42:21,2023-12-02 14:11:17
+174,174,billing,9881 College St,,London,Ontario,N6A 3N7,Canada,1,2023-02-18 03:33:37,2023-06-13 05:54:36
+175,175,shipping,87 Dundas St,Apt 240,Brampton,Ontario,L6X 3P4,Canada,1,2025-06-13 13:42:18,2025-10-13 15:08:11
+176,176,shipping,8954 Dundas St,,Toronto,Ontario,M4B 1B3,Canada,1,2025-05-21 07:59:56,2025-06-09 18:22:39
+177,177,other,5317 Bloor St,,Mississauga,Ontario,L5B 2T4,Canada,1,2023-04-16 14:43:19,2023-09-02 11:14:54
+178,178,billing,6327 Bay St,,Mississauga,Ontario,L5B 2T4,Canada,1,2023-01-03 14:55:53,2023-04-20 18:36:19
+179,179,billing,8476 King St,,Toronto,Ontario,M5V 2T6,Canada,1,2024-04-20 03:30:23,2024-10-09 14:38:23
+180,180,shipping,8164 King St,,Mississauga,Ontario,L5B 2T4,Canada,1,2025-08-12 20:22:20,2026-01-22 23:59:34
+181,181,shipping,4539 Queen St,Apt 219,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2025-06-26 02:24:49,2025-09-03 07:30:37
+182,182,billing,6694 Spadina Ave,,Ottawa,Ontario,K1P 1J1,Canada,1,2024-02-05 22:40:02,2024-05-08 08:11:56
+183,183,billing,9742 King St,Apt 710,Brampton,Ontario,L6X 3P4,Canada,1,2023-08-02 00:00:27,2023-12-30 12:49:32
+184,184,shipping,5116 King St,,Brampton,Ontario,L6X 3P4,Canada,1,2024-07-15 20:15:13,2024-12-20 13:47:40
+185,185,billing,3505 Spadina Ave,Apt 581,Kingston,Ontario,K7L 2Z1,Canada,1,2025-07-19 08:06:58,2025-12-17 04:06:33
+186,186,shipping,9222 College St,Apt 986,London,Ontario,N6A 3N7,Canada,1,2024-08-29 03:37:40,2024-12-05 17:29:13
+187,187,shipping,8407 Front St,,Ottawa,Ontario,K1P 1J1,Canada,1,2025-04-21 03:47:20,2025-06-25 10:49:41
+188,188,billing,4696 Front St,,Brampton,Ontario,L6X 3P4,Canada,1,2024-03-31 09:03:08,2024-09-24 05:43:46
+189,189,shipping,9254 Front St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-06-04 16:26:52,2023-08-19 15:12:43
+190,190,shipping,668 Yonge St,Apt 367,London,Ontario,N6A 3N7,Canada,1,2023-08-28 20:24:14,2023-11-10 08:25:02
+191,191,shipping,5132 Front St,,Toronto,Ontario,M5V 2T6,Canada,1,2025-01-24 09:40:23,2025-04-23 17:07:15
+192,192,other,2927 Dundas St,,Mississauga,Ontario,L5B 2T4,Canada,1,2025-03-05 14:44:26,2025-04-19 05:39:48
+193,193,shipping,2251 Front St,,Toronto,Ontario,M4B 1B3,Canada,1,2024-07-19 09:29:20,2025-01-07 02:16:36
+194,194,shipping,792 Queen St,Apt 110,Mississauga,Ontario,L5B 2T4,Canada,1,2024-09-20 08:51:08,2024-12-02 14:41:50
+195,195,billing,2950 Bay St,,Toronto,Ontario,M4B 1B3,Canada,1,2023-08-07 15:46:41,2023-11-30 20:40:47
+196,196,shipping,934 Queen St,,Hamilton,Ontario,L8P 1A1,Canada,1,2024-08-10 02:43:30,2024-08-28 15:27:32
+197,197,shipping,3050 Bay St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-02-05 03:36:08,2023-06-15 10:57:53
+198,198,shipping,795 Bay St,,Toronto,Ontario,M4B 1B3,Canada,1,2023-09-18 14:31:44,2023-12-31 07:24:58
+199,199,other,4295 Harbord St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2025-05-29 18:56:04,2025-08-25 11:54:12
+200,200,billing,2552 Spadina Ave,,Hamilton,Ontario,L8P 1A1,Canada,1,2025-10-31 21:00:39,2025-11-07 11:12:57
+201,201,billing,9291 Bloor St,,Ottawa,Ontario,K1P 1J1,Canada,1,2023-06-08 23:14:33,2023-09-29 09:07:20
+202,202,shipping,814 Queen St,,Kitchener,Ontario,N2G 1H2,Canada,1,2025-07-03 02:08:08,2025-09-22 19:08:14
+203,203,shipping,3160 King St,,Ottawa,Ontario,K1P 1J1,Canada,1,2025-05-11 03:40:16,2025-06-07 15:11:30
+204,204,shipping,2764 Spadina Ave,,London,Ontario,N6A 3N7,Canada,1,2023-05-22 14:08:24,2023-10-18 05:48:51
+205,205,billing,4879 King St,,Ottawa,Ontario,K1P 1J1,Canada,1,2023-09-30 04:23:45,2023-10-15 18:47:40
+206,206,shipping,5120 Harbord St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2023-10-13 05:17:03,2023-12-02 22:46:31
+207,207,billing,8329 Yonge St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2024-02-23 17:47:40,2024-08-13 21:21:26
+208,208,billing,4870 Front St,,Ottawa,Ontario,K1P 1J1,Canada,1,2025-04-05 19:48:52,2025-08-05 01:33:15
+209,209,shipping,5584 Bay St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2024-04-29 06:11:58,2024-09-03 16:31:25
+210,210,billing,446 Queen St,,Brampton,Ontario,L6X 3P4,Canada,1,2025-03-10 03:21:00,2025-04-21 21:20:32
+211,211,billing,8799 Harbord St,,London,Ontario,N6A 3N7,Canada,1,2024-02-15 23:48:48,2024-06-02 20:44:43
+212,212,billing,3559 Dundas St,,Kitchener,Ontario,N2G 1H2,Canada,1,2025-06-03 16:05:19,2025-06-04 09:36:05
+213,213,billing,6893 Yonge St,,Brampton,Ontario,L6X 3P4,Canada,1,2024-04-04 08:30:59,2024-07-05 16:21:33
+214,214,shipping,476 Spadina Ave,,Kingston,Ontario,K7L 2Z1,Canada,1,2025-05-07 09:51:51,2025-05-28 10:46:32
+215,215,billing,4771 Bay St,,Toronto,Ontario,M4B 1B3,Canada,1,2025-06-08 22:23:39,2025-09-13 05:28:08
+216,216,billing,6512 Queen St,,Brampton,Ontario,L6X 3P4,Canada,1,2023-08-15 11:06:41,2023-11-23 13:26:55
+217,217,billing,3314 Bloor St,,Toronto,Ontario,M4B 1B3,Canada,1,2023-10-31 05:49:55,2024-01-28 22:15:38
+218,218,other,9997 Yonge St,,Toronto,Ontario,M4B 1B3,Canada,1,2024-05-27 11:22:34,2024-10-31 13:53:34
+219,219,billing,2879 Spadina Ave,,Mississauga,Ontario,L5B 2T4,Canada,1,2023-07-15 00:41:10,2023-12-13 03:26:42
+220,220,shipping,8675 College St,,Hamilton,Ontario,L8P 1A1,Canada,1,2025-11-15 04:58:26,2025-11-21 16:43:39
+221,221,shipping,7233 Queen St,,Kitchener,Ontario,N2G 1H2,Canada,1,2024-03-24 11:45:05,2024-03-29 23:51:54
+222,222,shipping,9505 College St,Apt 240,Mississauga,Ontario,L5B 2T4,Canada,1,2023-02-13 09:21:51,2023-04-15 14:15:43
+223,223,shipping,1355 Dundas St,Apt 934,Ottawa,Ontario,K1P 1J1,Canada,1,2024-03-25 08:41:37,2024-06-05 07:14:03
+224,224,other,6258 Front St,Apt 168,Kitchener,Ontario,N2G 1H2,Canada,1,2025-05-30 22:25:19,2025-09-01 15:17:59
+225,225,billing,1672 Spadina Ave,Apt 609,London,Ontario,N6A 3N7,Canada,1,2025-09-30 18:17:44,2025-12-31 13:31:22
+226,226,billing,4112 Bay St,,Hamilton,Ontario,L8P 1A1,Canada,1,2025-08-02 06:40:51,2025-10-23 01:57:06
+227,227,other,9516 King St,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-12-12 08:28:01,2024-02-05 11:37:46
+228,228,shipping,9789 Spadina Ave,,Ottawa,Ontario,K1P 1J1,Canada,1,2024-08-19 09:41:42,2024-11-25 20:40:22
+229,229,shipping,5405 Spadina Ave,,Toronto,Ontario,M4B 1B3,Canada,1,2023-09-20 23:52:20,2023-10-10 04:56:18
+230,230,billing,1309 King St,,Ottawa,Ontario,K1P 1J1,Canada,1,2024-06-19 18:03:53,2024-10-05 03:50:04
+231,231,shipping,9024 Harbord St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2023-10-24 13:48:07,2024-03-04 00:08:33
+232,232,shipping,3398 Spadina Ave,Apt 571,Kingston,Ontario,K7L 2Z1,Canada,1,2023-05-07 23:40:11,2023-09-22 09:37:09
+233,233,shipping,4855 King St,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-10-01 20:36:16,2023-11-24 13:04:05
+234,234,other,9242 College St,,Hamilton,Ontario,L8P 1A1,Canada,1,2025-04-05 10:32:31,2025-06-29 13:06:33
+235,235,shipping,6711 Queen St,,Kingston,Ontario,K7L 2Z1,Canada,1,2025-09-23 23:41:44,2026-03-08 21:52:42
+236,236,shipping,1342 Front St,Apt 333,Ottawa,Ontario,K1P 1J1,Canada,1,2024-12-23 23:40:44,2025-06-11 11:03:16
+237,237,billing,6072 King St,,Mississauga,Ontario,L5B 2T4,Canada,1,2024-07-09 23:53:01,2024-12-28 02:50:49
+238,238,shipping,9400 Queen St,Apt 198,Toronto,Ontario,M4B 1B3,Canada,1,2024-12-05 14:59:16,2025-04-17 18:59:44
+239,239,billing,2113 Bloor St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-06-26 09:35:15,2023-08-01 07:59:44
+240,240,billing,2888 Bloor St,,Ottawa,Ontario,K1P 1J1,Canada,1,2023-12-19 09:28:13,2024-05-04 12:51:03
+241,241,shipping,8669 Harbord St,,London,Ontario,N6A 3N7,Canada,1,2024-05-11 16:16:49,2024-08-06 10:06:00
+242,242,billing,842 Dundas St,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-08-09 07:11:58,2023-09-04 03:51:03
+243,243,billing,4791 College St,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-01-04 14:13:49,2023-05-26 21:50:32
+244,244,billing,2955 Front St,,Ottawa,Ontario,K1P 1J1,Canada,1,2023-04-16 23:56:08,2023-05-20 19:43:41
+245,245,billing,3164 Dundas St,Apt 151,Ottawa,Ontario,K1P 1J1,Canada,1,2025-11-20 23:01:45,2026-01-20 16:55:02
+246,246,shipping,4445 College St,Apt 141,Brampton,Ontario,L6X 3P4,Canada,1,2023-09-25 15:08:22,2023-11-18 05:05:47
+247,247,billing,6250 Spadina Ave,,Toronto,Ontario,M5V 2T6,Canada,1,2024-12-29 19:02:48,2025-03-10 21:12:20
+248,248,shipping,9240 King St,,Brampton,Ontario,L6X 3P4,Canada,1,2023-03-23 11:19:39,2023-09-13 10:53:30
+249,249,billing,4339 College St,Apt 288,Toronto,Ontario,M5V 2T6,Canada,1,2023-10-01 09:54:38,2024-02-02 08:03:58
+250,250,shipping,1560 Harbord St,,Toronto,Ontario,M4B 1B3,Canada,1,2024-01-01 15:45:12,2024-06-09 12:49:50
+251,120,billing,1906 Front St,,Kingston,Ontario,K7L 2Z1,Canada,0,2024-06-01 14:35:32,2024-08-13 08:37:46
+252,72,shipping,5935 College St,,Kingston,Ontario,K7L 2Z1,Canada,0,2025-05-10 09:17:48,2025-06-02 06:59:40
+253,215,shipping,530 Queen St,,Kitchener,Ontario,N2G 1H2,Canada,0,2025-09-29 16:42:59,2025-11-11 06:39:59
+254,189,billing,9534 Yonge St,,Toronto,Ontario,M4B 1B3,Canada,0,2024-03-05 18:31:16,2024-03-07 09:14:03
+255,199,shipping,1749 King St,,Brampton,Ontario,L6X 3P4,Canada,0,2023-03-08 18:47:49,2023-04-14 01:54:21
+256,87,billing,6908 Yonge St,Apt 107,Mississauga,Ontario,L5B 2T4,Canada,0,2023-08-22 20:12:05,2023-09-02 09:45:01
+257,81,billing,1080 Spadina Ave,Apt 94,London,Ontario,N6A 3N7,Canada,1,2024-12-12 10:34:36,2025-04-21 17:14:29
+258,188,shipping,4799 College St,Apt 557,Kitchener,Ontario,N2G 1H2,Canada,0,2025-11-08 23:48:01,2026-02-20 22:07:22
+259,66,shipping,9375 Harbord St,Apt 987,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2024-02-14 02:06:29,2024-05-14 02:19:06
+260,125,shipping,2477 Harbord St,,Hamilton,Ontario,L8P 1A1,Canada,0,2025-10-21 05:41:12,2026-03-21 11:43:39
+261,31,shipping,1000 College St,,London,Ontario,N6A 3N7,Canada,0,2025-07-11 21:55:22,2025-09-12 09:07:24
+262,155,shipping,1350 King St,Apt 904,Ottawa,Ontario,K1P 1J1,Canada,0,2025-08-06 12:18:09,2025-12-12 16:18:22
+263,150,billing,4040 Dundas St,Apt 918,London,Ontario,N6A 3N7,Canada,1,2025-01-31 17:06:38,2025-06-12 03:04:22
+264,165,billing,7628 Harbord St,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-10-07 05:42:25,2024-01-31 02:04:45
+265,183,shipping,6534 Front St,,Kingston,Ontario,K7L 2Z1,Canada,0,2025-06-01 05:03:05,2025-10-18 11:52:38
+266,182,shipping,6999 Harbord St,,London,Ontario,N6A 3N7,Canada,1,2025-04-19 15:27:27,2025-06-20 21:33:56
+267,62,other,4978 Queen St,,London,Ontario,N6A 3N7,Canada,0,2023-11-07 21:39:27,2024-02-25 23:50:03
+268,77,shipping,6770 King St,,Toronto,Ontario,M5V 2T6,Canada,0,2023-08-31 09:52:45,2023-10-05 14:32:40
+269,81,shipping,1356 Bloor St,Apt 932,Hamilton,Ontario,L8P 1A1,Canada,0,2025-04-21 02:25:34,2025-07-30 20:15:22
+270,183,shipping,8683 King St,Apt 574,Ottawa,Ontario,K1P 1J1,Canada,0,2023-09-21 11:36:09,2023-09-28 02:29:03
+271,192,shipping,4563 Queen St,Apt 414,Kitchener,Ontario,N2G 1H2,Canada,0,2025-01-28 05:31:40,2025-06-12 06:11:31
+272,108,shipping,2478 Harbord St,Apt 534,Kitchener,Ontario,N2G 1H2,Canada,0,2024-04-23 05:23:59,2024-10-01 04:14:44
+273,69,shipping,4195 Front St,,Kitchener,Ontario,N2G 1H2,Canada,0,2024-09-12 14:45:22,2024-09-17 03:10:17
+274,143,billing,7692 King St,,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2025-09-19 23:35:57,2025-10-27 12:13:59
+275,248,shipping,8756 Bloor St,,Kitchener,Ontario,N2G 1H2,Canada,0,2023-07-14 05:21:16,2023-10-28 01:32:26
+276,37,other,8132 Bay St,,Kitchener,Ontario,N2G 1H2,Canada,0,2025-01-15 13:36:13,2025-06-18 15:49:27
+277,142,shipping,6173 College St,,Kingston,Ontario,K7L 2Z1,Canada,0,2024-09-13 23:33:51,2025-03-10 05:29:57
+278,238,shipping,2736 Spadina Ave,Apt 639,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2023-08-12 11:46:13,2023-09-23 15:15:02
+279,16,shipping,495 Front St,,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2025-04-06 09:50:08,2025-09-14 00:12:46
+280,18,shipping,6842 College St,,Ottawa,Ontario,K1P 1J1,Canada,0,2025-10-28 14:41:05,2025-11-16 19:10:32
+281,150,other,5580 College St,,London,Ontario,N6A 3N7,Canada,1,2025-05-09 13:56:55,2025-06-12 18:03:53
+282,165,billing,1247 King St,Apt 919,Toronto,Ontario,M5V 2T6,Canada,0,2023-09-30 04:32:00,2024-01-03 07:44:04
+283,4,shipping,405 Spadina Ave,Apt 22,Niagara Falls,Ontario,L2G 3Y9,Canada,1,2023-08-20 23:50:17,2024-02-05 15:12:53
+284,56,billing,2727 Yonge St,,Hamilton,Ontario,L8P 1A1,Canada,0,2024-05-28 00:00:25,2024-07-11 19:19:20
+285,198,shipping,8445 Bloor St,,Ottawa,Ontario,K1P 1J1,Canada,0,2024-02-07 22:44:45,2024-05-19 17:26:44
+286,131,other,872 Spadina Ave,,Kitchener,Ontario,N2G 1H2,Canada,0,2024-08-15 22:09:20,2025-01-04 21:49:05
+287,219,billing,4085 College St,,Kitchener,Ontario,N2G 1H2,Canada,0,2025-07-27 23:04:32,2025-10-28 21:52:46
+288,78,shipping,9451 Yonge St,,London,Ontario,N6A 3N7,Canada,0,2024-05-12 05:23:59,2024-06-13 00:50:12
+289,39,billing,3667 Harbord St,,London,Ontario,N6A 3N7,Canada,0,2025-03-10 17:07:25,2025-03-14 17:01:20
+290,17,shipping,9419 Front St,Apt 106,Toronto,Ontario,M4B 1B3,Canada,0,2024-02-28 09:11:34,2024-05-18 22:46:25
+291,151,billing,7792 King St,Apt 525,Toronto,Ontario,M4B 1B3,Canada,0,2025-09-19 01:37:53,2026-01-14 02:19:14
+292,19,shipping,1721 Spadina Ave,,Toronto,Ontario,M4B 1B3,Canada,1,2024-09-26 02:38:24,2025-01-10 09:59:40
+293,169,shipping,5657 King St,Apt 977,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2025-10-24 23:48:48,2026-01-28 14:27:19
+294,49,shipping,160 Harbord St,,Toronto,Ontario,M5V 2T6,Canada,1,2024-05-19 21:56:53,2024-07-26 10:06:46
+295,55,other,2921 Front St,Apt 753,Ottawa,Ontario,K1P 1J1,Canada,0,2025-07-05 23:58:29,2025-12-10 23:14:56
+296,122,billing,5169 Spadina Ave,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-05-10 02:50:33,2023-07-22 10:13:28
+297,5,shipping,8476 Queen St,,London,Ontario,N6A 3N7,Canada,0,2024-08-27 17:01:37,2024-12-12 21:55:48
+298,244,billing,4101 Dundas St,,Hamilton,Ontario,L8P 1A1,Canada,0,2024-09-21 14:06:31,2024-12-24 05:19:45
+299,177,billing,8249 Dundas St,Apt 322,Hamilton,Ontario,L8P 1A1,Canada,1,2024-12-18 14:16:43,2025-05-31 16:38:16
+300,243,billing,8954 Queen St,,Kingston,Ontario,K7L 2Z1,Canada,0,2023-10-15 00:12:23,2024-01-30 21:46:15
+301,21,shipping,4231 Spadina Ave,,Toronto,Ontario,M5V 2T6,Canada,0,2025-08-18 22:09:29,2025-11-15 04:27:00
+302,183,billing,4738 King St,,Brampton,Ontario,L6X 3P4,Canada,0,2025-05-11 10:02:04,2025-10-17 06:59:22
+303,68,billing,7485 Yonge St,Apt 395,Mississauga,Ontario,L5B 2T4,Canada,1,2025-07-14 12:37:14,2025-08-09 15:52:50
+304,46,shipping,6761 Harbord St,,Toronto,Ontario,M4B 1B3,Canada,0,2024-03-25 06:52:07,2024-06-07 10:28:09
+305,200,shipping,3475 Dundas St,Apt 20,Kingston,Ontario,K7L 2Z1,Canada,0,2025-03-17 03:47:42,2025-06-16 09:04:35
+306,246,shipping,5186 Harbord St,Apt 660,Kitchener,Ontario,N2G 1H2,Canada,0,2024-03-15 20:46:32,2024-03-25 22:38:25
+307,159,billing,1982 Spadina Ave,,Mississauga,Ontario,L5B 2T4,Canada,0,2024-08-05 18:19:17,2024-08-17 00:45:16
+308,196,other,5135 Dundas St,Apt 756,Toronto,Ontario,M4B 1B3,Canada,0,2025-01-13 03:46:46,2025-04-27 17:20:54
+309,15,shipping,3987 King St,,Brampton,Ontario,L6X 3P4,Canada,0,2023-03-22 23:01:23,2023-07-22 16:11:29
+310,197,shipping,8501 Spadina Ave,Apt 412,Toronto,Ontario,M4B 1B3,Canada,1,2025-05-26 14:27:45,2025-08-18 19:45:55
+311,4,billing,7811 Yonge St,,Mississauga,Ontario,L5B 2T4,Canada,0,2024-12-01 06:07:09,2025-04-26 10:27:28
+312,214,billing,7124 Yonge St,Apt 282,Kingston,Ontario,K7L 2Z1,Canada,0,2023-06-07 03:10:30,2023-09-03 23:54:08
+313,201,billing,1898 Dundas St,,London,Ontario,N6A 3N7,Canada,0,2025-11-01 06:56:59,2026-04-07 04:04:38
+314,21,shipping,7213 Spadina Ave,,Toronto,Ontario,M4B 1B3,Canada,0,2025-05-26 16:26:19,2025-08-12 04:22:13
+315,63,shipping,726 Harbord St,Apt 536,Toronto,Ontario,M4B 1B3,Canada,0,2025-02-13 15:28:59,2025-06-01 05:29:16
+316,207,shipping,5744 College St,,Kingston,Ontario,K7L 2Z1,Canada,0,2025-10-10 19:47:58,2026-03-14 01:55:31
+317,213,billing,1607 Bloor St,Apt 252,Hamilton,Ontario,L8P 1A1,Canada,0,2023-04-14 14:11:02,2023-04-24 05:13:02
+318,21,billing,4349 Dundas St,,Brampton,Ontario,L6X 3P4,Canada,0,2025-10-31 15:30:13,2025-12-27 13:04:19
+319,107,shipping,7465 College St,Apt 166,Toronto,Ontario,M4B 1B3,Canada,0,2025-06-02 21:40:00,2025-07-29 07:40:05
+320,131,billing,7293 Bloor St,,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2025-04-15 01:39:45,2025-06-04 20:43:16
+321,232,billing,9446 Harbord St,,Kitchener,Ontario,N2G 1H2,Canada,0,2024-06-18 06:05:05,2024-10-29 04:47:23
+322,110,shipping,446 Queen St,Apt 69,Toronto,Ontario,M4B 1B3,Canada,0,2023-07-02 20:10:32,2023-08-23 15:28:14
+323,136,billing,4953 Dundas St,,Hamilton,Ontario,L8P 1A1,Canada,0,2023-03-03 01:24:03,2023-05-09 19:59:46
+324,72,billing,8046 King St,Apt 863,Ottawa,Ontario,K1P 1J1,Canada,1,2025-05-18 01:45:08,2025-09-22 23:12:08
+325,185,shipping,5265 Bay St,,London,Ontario,N6A 3N7,Canada,0,2024-10-09 14:26:34,2024-11-10 20:16:11
+326,8,shipping,7807 King St,Apt 94,Toronto,Ontario,M5V 2T6,Canada,1,2023-04-24 02:22:59,2023-05-10 15:23:37
+327,135,billing,5024 Bloor St,,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2023-01-11 15:08:42,2023-06-01 04:25:57
+328,23,billing,8913 Queen St,,Toronto,Ontario,M5V 2T6,Canada,0,2023-05-07 02:54:39,2023-08-17 07:45:39
+329,58,billing,7575 Spadina Ave,,London,Ontario,N6A 3N7,Canada,0,2023-12-07 14:14:25,2024-03-17 23:10:14
+330,83,shipping,9529 Front St,Apt 622,London,Ontario,N6A 3N7,Canada,1,2024-07-26 00:01:17,2025-01-18 21:10:34
+331,216,billing,7596 Bay St,Apt 764,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2023-03-27 13:18:21,2023-04-05 06:21:03
+332,154,billing,3644 Dundas St,,Toronto,Ontario,M5V 2T6,Canada,0,2024-10-04 06:30:44,2025-01-19 18:34:58
+333,145,billing,1501 Queen St,,Kingston,Ontario,K7L 2Z1,Canada,1,2024-08-15 16:59:03,2025-02-02 13:38:49
+334,71,shipping,155 Dundas St,Apt 781,London,Ontario,N6A 3N7,Canada,0,2024-08-28 20:33:42,2024-10-02 05:32:14
+335,31,billing,3697 Queen St,,Toronto,Ontario,M4B 1B3,Canada,0,2023-09-17 07:58:06,2023-09-25 11:11:03
+336,105,shipping,770 Queen St,,Toronto,Ontario,M4B 1B3,Canada,0,2023-03-24 14:05:59,2023-05-21 15:21:11
+337,36,shipping,697 Bay St,,Brampton,Ontario,L6X 3P4,Canada,0,2024-03-24 00:24:58,2024-08-22 05:56:48
+338,210,billing,2651 Harbord St,,Kingston,Ontario,K7L 2Z1,Canada,1,2024-05-06 00:05:08,2024-08-02 04:10:38
+339,20,billing,6163 Harbord St,Apt 624,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2025-03-07 08:04:32,2025-08-24 02:19:54
+340,20,billing,4451 Bay St,Apt 855,Toronto,Ontario,M4B 1B3,Canada,0,2024-03-30 16:14:25,2024-04-01 00:40:24
+341,212,billing,4041 King St,Apt 621,Kitchener,Ontario,N2G 1H2,Canada,0,2023-09-26 05:49:25,2024-03-09 05:15:49
+342,190,shipping,9827 Harbord St,,Kingston,Ontario,K7L 2Z1,Canada,0,2023-10-17 20:39:59,2024-02-18 03:11:04
+343,246,shipping,2773 King St,,Brampton,Ontario,L6X 3P4,Canada,0,2025-04-26 23:51:55,2025-05-09 03:15:47
+344,45,shipping,5731 College St,,Toronto,Ontario,M5V 2T6,Canada,0,2023-06-23 17:43:48,2023-11-30 04:23:25
+345,220,billing,8915 Queen St,,Kingston,Ontario,K7L 2Z1,Canada,1,2023-10-24 08:11:21,2023-10-31 10:31:19
+346,12,shipping,4029 King St,Apt 367,London,Ontario,N6A 3N7,Canada,0,2024-10-25 17:55:13,2024-12-16 14:21:19
+347,192,billing,5675 Queen St,,Ottawa,Ontario,K1P 1J1,Canada,0,2024-04-26 04:32:09,2024-09-12 19:48:30
+348,3,billing,6381 King St,,Hamilton,Ontario,L8P 1A1,Canada,0,2025-10-14 04:32:07,2025-11-21 01:19:09
+349,154,billing,8745 College St,,Mississauga,Ontario,L5B 2T4,Canada,1,2024-10-17 16:00:52,2024-12-01 12:50:27
+350,97,billing,3479 Bay St,,Brampton,Ontario,L6X 3P4,Canada,0,2024-04-13 14:26:12,2024-05-27 04:58:20
+351,247,other,7916 King St,,Ottawa,Ontario,K1P 1J1,Canada,0,2023-04-11 05:19:53,2023-06-17 20:40:20
+352,173,shipping,6301 Bloor St,,Brampton,Ontario,L6X 3P4,Canada,1,2023-10-10 01:48:40,2023-10-29 17:22:07
+353,57,shipping,8735 Dundas St,Apt 439,Mississauga,Ontario,L5B 2T4,Canada,0,2024-03-29 15:40:41,2024-07-15 11:55:54
+354,140,billing,5285 Dundas St,Apt 845,Mississauga,Ontario,L5B 2T4,Canada,1,2023-08-07 09:28:31,2023-12-20 13:44:47
+355,238,shipping,8080 King St,,Toronto,Ontario,M5V 2T6,Canada,0,2025-07-20 15:22:01,2025-10-18 00:39:09
+356,142,shipping,7975 Queen St,,Ottawa,Ontario,K1P 1J1,Canada,1,2023-04-15 05:02:18,2023-06-02 06:00:58
+357,207,shipping,2765 Dundas St,Apt 546,Hamilton,Ontario,L8P 1A1,Canada,1,2024-11-16 10:42:29,2024-12-25 09:30:58
+358,137,billing,1058 Spadina Ave,,Kitchener,Ontario,N2G 1H2,Canada,0,2023-03-23 04:32:27,2023-04-23 13:55:24
+359,59,shipping,245 Bay St,,Toronto,Ontario,M5V 2T6,Canada,0,2024-01-18 19:12:04,2024-02-05 10:09:42
+360,204,shipping,969 Harbord St,,Ottawa,Ontario,K1P 1J1,Canada,0,2025-11-19 00:14:15,2026-03-29 22:57:05
+361,154,billing,6533 King St,,Toronto,Ontario,M5V 2T6,Canada,1,2024-11-04 15:01:47,2025-03-08 23:20:25
+362,6,shipping,1800 College St,,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2024-09-05 01:00:32,2024-12-15 20:04:56
+363,76,billing,6613 Harbord St,,London,Ontario,N6A 3N7,Canada,0,2025-01-10 12:09:55,2025-06-28 02:51:43
+364,15,billing,7979 Front St,Apt 615,Hamilton,Ontario,L8P 1A1,Canada,0,2025-10-19 15:32:46,2026-03-03 19:25:28
+365,247,billing,6079 Front St,,Toronto,Ontario,M4B 1B3,Canada,1,2025-02-14 19:28:48,2025-06-16 11:33:57
+366,220,billing,3320 Front St,,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2024-07-01 02:05:27,2024-09-22 05:20:42
+367,205,shipping,7875 King St,Apt 99,Kingston,Ontario,K7L 2Z1,Canada,1,2024-02-14 15:32:11,2024-06-03 16:35:29
+368,181,shipping,4992 King St,,London,Ontario,N6A 3N7,Canada,1,2023-05-18 08:44:40,2023-06-01 15:04:27
+369,147,billing,1497 Harbord St,,Brampton,Ontario,L6X 3P4,Canada,0,2023-05-26 02:19:40,2023-11-13 21:06:58
+370,199,shipping,8930 Spadina Ave,,Kitchener,Ontario,N2G 1H2,Canada,0,2024-05-18 17:16:15,2024-11-09 07:43:41
+371,15,billing,3324 Harbord St,,London,Ontario,N6A 3N7,Canada,0,2023-08-27 12:09:34,2023-12-10 06:22:53
+372,209,shipping,2231 Dundas St,Apt 733,Kingston,Ontario,K7L 2Z1,Canada,1,2023-12-13 18:27:49,2023-12-22 16:46:36
+373,138,shipping,1469 Bay St,Apt 543,Toronto,Ontario,M4B 1B3,Canada,1,2023-11-17 08:20:24,2024-03-26 14:24:45
+374,199,billing,9432 Yonge St,,Ottawa,Ontario,K1P 1J1,Canada,0,2024-06-01 13:26:58,2024-08-18 11:41:27
+375,113,other,924 Queen St,Apt 815,Toronto,Ontario,M4B 1B3,Canada,1,2024-07-31 02:07:59,2024-09-05 22:18:51
+376,27,shipping,8792 Queen St,,Toronto,Ontario,M5V 2T6,Canada,1,2023-04-29 15:36:32,2023-10-02 10:47:57
+377,182,billing,2785 Bloor St,,Ottawa,Ontario,K1P 1J1,Canada,1,2025-02-13 01:26:57,2025-06-28 04:43:53
+378,210,shipping,2122 Bloor St,,Brampton,Ontario,L6X 3P4,Canada,0,2024-11-21 15:41:08,2025-04-06 03:57:19
+379,51,other,15 King St,Apt 675,Ottawa,Ontario,K1P 1J1,Canada,0,2025-03-03 00:21:36,2025-06-29 00:17:53
+380,183,shipping,8430 Yonge St,,Mississauga,Ontario,L5B 2T4,Canada,1,2023-08-17 14:53:11,2024-01-13 13:45:59
+381,171,shipping,8771 Front St,,Hamilton,Ontario,L8P 1A1,Canada,1,2024-03-30 12:29:11,2024-05-13 07:05:18
+382,86,shipping,2729 Queen St,Apt 459,Mississauga,Ontario,L5B 2T4,Canada,0,2023-09-28 02:46:15,2023-10-20 08:23:43
+383,10,billing,6981 Yonge St,,London,Ontario,N6A 3N7,Canada,0,2024-09-22 10:00:47,2025-03-15 16:59:12
+384,220,shipping,6717 College St,Apt 637,London,Ontario,N6A 3N7,Canada,0,2024-12-09 14:33:30,2025-01-22 17:51:17
+385,84,billing,9207 Dundas St,,Mississauga,Ontario,L5B 2T4,Canada,0,2024-10-24 14:56:28,2024-11-11 12:13:49
+386,10,shipping,9941 College St,Apt 12,Kingston,Ontario,K7L 2Z1,Canada,0,2025-03-28 23:26:32,2025-06-09 00:38:06
+387,69,billing,2402 Queen St,,Kingston,Ontario,K7L 2Z1,Canada,0,2023-07-18 22:13:32,2023-08-24 15:14:18
+388,138,billing,6016 Dundas St,Apt 732,Kitchener,Ontario,N2G 1H2,Canada,1,2023-12-30 22:37:58,2024-05-01 00:10:58
+389,15,billing,786 College St,,Mississauga,Ontario,L5B 2T4,Canada,0,2023-07-29 21:49:22,2023-12-15 23:18:35
+390,50,billing,2339 Dundas St,,Ottawa,Ontario,K1P 1J1,Canada,1,2024-09-23 03:15:38,2024-12-04 22:29:52
+391,217,shipping,5930 College St,Apt 257,Kitchener,Ontario,N2G 1H2,Canada,1,2024-08-29 22:04:49,2024-09-05 07:18:38
+392,181,shipping,5685 Queen St,,Brampton,Ontario,L6X 3P4,Canada,0,2025-08-03 08:22:11,2025-10-11 17:13:18
+393,74,other,4889 Yonge St,,Ottawa,Ontario,K1P 1J1,Canada,0,2025-04-07 10:45:12,2025-08-19 18:50:55
+394,174,shipping,1283 Dundas St,,Brampton,Ontario,L6X 3P4,Canada,0,2024-06-27 03:44:08,2024-11-13 21:47:19
+395,128,shipping,282 Harbord St,,Kingston,Ontario,K7L 2Z1,Canada,0,2023-03-15 16:52:41,2023-06-23 02:34:56
+396,239,billing,8473 King St,,Toronto,Ontario,M4B 1B3,Canada,1,2023-01-01 04:26:49,2023-05-14 21:20:20
+397,31,billing,5466 Dundas St,,Mississauga,Ontario,L5B 2T4,Canada,0,2024-10-10 00:56:06,2025-02-11 12:50:02
+398,244,billing,8751 Front St,Apt 21,London,Ontario,N6A 3N7,Canada,0,2023-04-10 19:33:45,2023-06-23 05:42:16
+399,34,billing,6438 Yonge St,Apt 252,Kitchener,Ontario,N2G 1H2,Canada,0,2023-12-10 16:04:09,2024-01-13 11:13:15
+400,148,other,6147 Dundas St,Apt 443,Niagara Falls,Ontario,L2G 3Y9,Canada,0,2024-12-07 13:49:52,2025-02-07 01:42:46

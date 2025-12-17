@@ -1,0 +1,21 @@
+category_id,parent_category_id,name,description,is_active,created_at,updated_at
+1,,Electronics,Electronics products,1,2024-01-02 10:00:00,2024-04-11 10:00:00
+2,,Home & Kitchen,Home & Kitchen products,1,2024-01-03 10:00:00,2024-01-17 10:00:00
+3,,Fashion,Fashion products,1,2024-01-04 10:00:00,2024-02-04 10:00:00
+4,,Sports & Outdoors,Sports & Outdoors products,1,2024-01-05 10:00:00,2024-02-11 10:00:00
+5,,Beauty & Personal Care,Beauty & Personal Care products,1,2024-01-06 10:00:00,2024-02-15 10:00:00
+6,,Toys & Games,Toys & Games products,1,2024-01-07 10:00:00,2024-01-12 10:00:00
+7,1.0,Smartphones,Smartphones under electronics,1,2024-01-08 10:00:00,2024-01-12 10:00:00
+8,1.0,Laptops,Laptops under electronics,1,2024-01-09 10:00:00,2024-03-11 10:00:00
+9,1.0,TV & Home Theater,TV & Home Theater under electronics,1,2024-01-10 10:00:00,2024-02-08 10:00:00
+10,2.0,Appliances,Appliances under home & kitchen,1,2024-01-11 10:00:00,2024-03-08 10:00:00
+11,2.0,Cookware,Cookware under home & kitchen,1,2024-01-12 10:00:00,2024-04-16 10:00:00
+12,3.0,Men's Clothing,Men's Clothing under fashion,1,2024-01-13 10:00:00,2024-04-15 10:00:00
+13,3.0,Women's Clothing,Women's Clothing under fashion,1,2024-01-14 10:00:00,2024-03-11 10:00:00
+14,3.0,Shoes,Shoes under fashion,1,2024-01-15 10:00:00,2024-03-13 10:00:00
+15,4.0,Fitness Equipment,Fitness Equipment under sports & outdoors,1,2024-01-16 10:00:00,2024-01-26 10:00:00
+16,4.0,Camping & Hiking,Camping & Hiking under sports & outdoors,1,2024-01-17 10:00:00,2024-04-26 10:00:00
+17,5.0,Skincare,Skincare under beauty & personal care,1,2024-01-18 10:00:00,2024-01-21 10:00:00
+18,5.0,Hair Care,Hair Care under beauty & personal care,1,2024-01-19 10:00:00,2024-02-02 10:00:00
+19,6.0,Board Games,Board Games under toys & games,1,2024-01-20 10:00:00,2024-05-19 10:00:00
+20,6.0,Educational Toys,Educational Toys under toys & games,1,2024-01-21 10:00:00,2024-03-15 10:00:00

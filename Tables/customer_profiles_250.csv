@@ -1,0 +1,251 @@
+customer_id,gender,marketing_opt_in,preferred_language,preferred_channel,lifetime_value,risk_score,notes,created_at,updated_at
+1,female,1,pt,store,481.29,16,"New customer, limited history so far.",2024-05-09 04:17:09,2024-09-11 04:11:42
+2,female,0,en,both,70.69,33,"Price-sensitive, often uses coupons and promo codes.",2023-03-24 13:24:35,2023-08-07 21:26:33
+3,female,1,pt,both,1389.89,51,,2024-02-24 02:46:06,2024-02-28 16:18:52
+4,prefer_not_to_say,1,pt,online,1515.92,42,"Frequent online shopper, responds well to email campaigns.",2023-05-15 07:43:21,2023-08-30 11:09:13
+5,female,1,pt,both,271.06,84,"New customer, limited history so far.",2025-02-15 04:44:00,2025-05-16 11:33:35
+6,male,1,fr,both,855.84,51,Prefers in-store pickup and weekend promotions.,2025-02-18 01:25:29,2025-04-28 07:03:40
+7,male,0,en,online,1669.50,70,"Frequent online shopper, responds well to email campaigns.",2023-11-22 10:57:03,2024-01-05 16:06:22
+8,male,1,en,store,43.55,60,"Price-sensitive, often uses coupons and promo codes.",2024-06-10 04:55:27,2024-11-24 01:57:22
+9,female,1,pt,online,13.97,48,"Price-sensitive, often uses coupons and promo codes.",2023-05-27 22:21:27,2023-11-10 08:25:34
+10,other,1,en,store,1522.17,63,,2025-08-18 17:40:55,2026-01-15 22:52:54
+11,other,1,en,both,1704.32,83,,2024-01-26 11:52:54,2024-07-06 16:21:18
+12,male,0,en,online,40.36,51,"Frequent online shopper, responds well to email campaigns.",2024-12-03 18:59:18,2025-03-18 05:26:25
+13,male,0,en,online,187.83,57,,2023-08-07 04:07:15,2024-01-20 13:51:56
+14,female,1,pt,both,248.61,72,High-value customer with stable purchasing pattern.,2025-04-02 20:20:36,2025-09-16 13:51:05
+15,male,1,en,both,36.49,6,"Frequent online shopper, responds well to email campaigns.",2024-11-23 00:05:23,2025-01-16 18:10:00
+16,male,1,pt,both,1279.06,63,,2024-06-28 18:55:54,2024-08-22 02:16:49
+17,male,1,en,online,1208.32,50,Prefers in-store pickup and weekend promotions.,2024-09-11 05:26:07,2025-02-03 22:26:19
+18,female,1,en,online,906.56,98,"New customer, limited history so far.",2025-07-21 09:27:28,2025-11-05 11:52:49
+19,female,1,en,both,1064.03,21,"New customer, limited history so far.",2025-06-11 04:32:09,2025-08-16 21:40:08
+20,female,0,en,online,205.67,49,"Price-sensitive, often uses coupons and promo codes.",2023-12-01 16:39:41,2023-12-27 14:35:13
+21,other,1,en,store,227.18,85,Prefers in-store pickup and weekend promotions.,2024-09-21 06:25:23,2024-10-17 02:33:30
+22,male,0,en,online,5.11,50,"Price-sensitive, often uses coupons and promo codes.",2024-03-09 19:51:46,2024-06-01 22:23:23
+23,female,1,en,both,924.84,100,"Price-sensitive, often uses coupons and promo codes.",2025-04-29 16:31:33,2025-06-19 19:56:32
+24,male,1,en,both,4.74,56,"Frequent online shopper, responds well to email campaigns.",2024-09-03 12:24:46,2025-02-25 17:54:22
+25,male,0,en,store,843.35,7,"New customer, limited history so far.",2025-04-11 03:23:48,2025-07-03 05:41:56
+26,male,1,pt,online,1952.48,10,"Frequent online shopper, responds well to email campaigns.",2023-12-07 10:29:04,2024-01-26 05:42:58
+27,male,0,pt,online,1978.29,84,High-value customer with stable purchasing pattern.,2023-09-12 23:58:48,2024-02-09 18:44:40
+28,male,1,en,online,625.66,63,,2024-04-27 00:28:52,2024-08-05 17:09:29
+29,female,1,en,online,1965.22,82,"Price-sensitive, often uses coupons and promo codes.",2024-04-12 00:47:43,2024-06-15 12:27:09
+30,male,1,en,both,835.57,59,Prefers in-store pickup and weekend promotions.,2023-04-23 14:05:29,2023-05-18 11:28:46
+31,female,0,en,online,59.56,79,"Frequent online shopper, responds well to email campaigns.",2025-02-01 02:21:49,2025-02-02 04:06:55
+32,male,1,en,online,118.44,1,"Frequent online shopper, responds well to email campaigns.",2024-03-14 00:01:39,2024-08-21 17:37:50
+33,male,1,en,both,871.43,65,"Price-sensitive, often uses coupons and promo codes.",2024-07-29 21:21:48,2024-11-23 20:56:25
+34,female,1,en,both,156.78,45,Prefers in-store pickup and weekend promotions.,2024-06-17 07:18:25,2024-11-09 02:40:31
+35,female,1,en,store,1247.49,71,,2024-07-27 05:18:04,2025-01-07 07:59:41
+36,male,0,fr,both,190.01,56,"Price-sensitive, often uses coupons and promo codes.",2025-03-11 10:26:14,2025-07-29 06:13:54
+37,male,0,pt,store,732.58,14,Prefers in-store pickup and weekend promotions.,2025-07-11 03:04:56,2025-10-15 21:09:31
+38,female,0,en,online,789.50,59,"Frequent online shopper, responds well to email campaigns.",2024-04-26 11:34:45,2024-06-26 05:55:45
+39,male,1,en,online,573.92,18,"Price-sensitive, often uses coupons and promo codes.",2025-07-04 12:29:19,2025-07-10 13:22:19
+40,female,1,en,online,81.23,23,"Frequent online shopper, responds well to email campaigns.",2025-11-23 08:32:28,2025-12-25 00:55:18
+41,female,1,pt,online,131.67,98,Prefers in-store pickup and weekend promotions.,2023-01-21 02:30:57,2023-03-29 18:54:40
+42,female,1,en,online,4.11,22,High-value customer with stable purchasing pattern.,2024-12-11 12:19:58,2025-01-08 10:33:11
+43,female,1,pt,online,539.45,73,High-value customer with stable purchasing pattern.,2024-08-25 12:47:27,2024-09-16 11:10:57
+44,male,1,pt,online,1973.05,67,"New customer, limited history so far.",2024-06-14 23:05:23,2024-08-30 22:09:24
+45,male,1,pt,online,2.58,85,Prefers in-store pickup and weekend promotions.,2025-05-19 16:16:22,2025-07-26 11:21:52
+46,male,1,en,store,1612.02,42,"New customer, limited history so far.",2025-07-21 07:40:32,2025-09-05 08:43:58
+47,female,0,pt,online,0.36,20,High-value customer with stable purchasing pattern.,2024-01-05 07:09:23,2024-05-13 12:05:33
+48,male,0,pt,online,1835.81,50,High-value customer with stable purchasing pattern.,2023-05-24 09:55:33,2023-10-01 14:20:17
+49,male,1,en,online,1431.21,7,"Price-sensitive, often uses coupons and promo codes.",2023-07-06 13:52:38,2023-11-21 12:28:21
+50,male,1,pt,both,68.75,2,"Price-sensitive, often uses coupons and promo codes.",2025-09-01 04:54:54,2025-10-14 12:01:54
+51,male,1,en,both,24.60,72,High-value customer with stable purchasing pattern.,2024-04-22 19:09:42,2024-08-08 14:18:34
+52,male,1,en,store,1787.43,62,"Frequent online shopper, responds well to email campaigns.",2025-04-21 18:15:24,2025-05-14 23:58:33
+53,male,1,en,online,1749.52,33,"Price-sensitive, often uses coupons and promo codes.",2023-06-01 22:18:07,2023-10-30 17:13:14
+54,male,1,en,both,35.36,19,,2024-09-08 16:13:12,2024-10-26 18:38:20
+55,male,1,fr,online,560.60,35,High-value customer with stable purchasing pattern.,2023-11-13 01:46:19,2024-04-21 19:49:29
+56,male,1,en,both,633.89,50,"Price-sensitive, often uses coupons and promo codes.",2025-02-12 06:50:51,2025-03-02 04:52:41
+57,female,1,pt,both,0.03,17,High-value customer with stable purchasing pattern.,2023-11-21 06:06:13,2024-04-23 13:57:19
+58,male,1,es,online,819.03,23,Prefers in-store pickup and weekend promotions.,2025-08-10 03:40:31,2025-11-12 23:49:37
+59,male,0,en,store,495.10,99,"New customer, limited history so far.",2023-06-02 05:29:43,2023-10-02 23:08:33
+60,female,0,en,online,167.78,9,"Frequent online shopper, responds well to email campaigns.",2024-09-19 19:17:10,2025-01-02 23:35:22
+61,male,1,en,store,0.12,23,High-value customer with stable purchasing pattern.,2023-10-26 01:01:20,2024-02-06 21:19:09
+62,female,1,en,online,60.84,72,Prefers in-store pickup and weekend promotions.,2023-07-28 03:51:57,2023-11-29 16:53:39
+63,male,1,en,online,462.14,65,,2024-07-29 02:53:52,2024-08-09 06:22:27
+64,male,1,fr,online,1431.09,57,"Frequent online shopper, responds well to email campaigns.",2024-10-05 23:35:44,2024-10-27 02:43:28
+65,male,0,en,both,9.00,81,"New customer, limited history so far.",2023-12-27 20:04:47,2024-06-16 14:05:30
+66,female,1,en,online,21.90,98,Prefers in-store pickup and weekend promotions.,2024-08-26 10:13:07,2024-09-18 14:44:42
+67,male,1,en,both,221.04,23,,2025-05-23 21:56:18,2025-10-26 08:16:02
+68,female,1,en,online,42.66,17,"New customer, limited history so far.",2024-05-21 03:43:32,2024-10-06 01:10:32
+69,male,1,pt,store,741.83,57,,2024-04-22 15:02:10,2024-06-04 03:33:06
+70,female,1,en,both,1173.89,66,"Price-sensitive, often uses coupons and promo codes.",2025-07-31 20:01:11,2025-11-14 05:41:02
+71,female,1,en,both,220.27,61,Prefers in-store pickup and weekend promotions.,2023-11-23 00:20:29,2023-12-03 03:33:24
+72,male,1,es,both,1398.80,74,"Price-sensitive, often uses coupons and promo codes.",2023-06-23 03:22:20,2023-11-17 07:26:20
+73,male,1,en,online,647.13,52,Prefers in-store pickup and weekend promotions.,2023-05-27 07:53:52,2023-11-08 08:00:07
+74,female,1,en,online,1747.22,55,"New customer, limited history so far.",2023-09-12 11:54:20,2024-02-14 08:47:29
+75,female,0,en,online,1.09,59,,2024-12-01 22:19:17,2024-12-20 02:33:36
+76,male,1,en,both,1304.80,37,,2023-10-21 20:09:05,2024-04-07 05:31:11
+77,female,0,pt,both,989.23,29,Prefers in-store pickup and weekend promotions.,2025-06-04 17:43:02,2025-09-05 17:09:05
+78,male,1,en,online,4.40,33,High-value customer with stable purchasing pattern.,2024-03-21 18:43:50,2024-05-02 04:31:40
+79,male,1,en,online,278.75,51,"New customer, limited history so far.",2023-03-01 23:10:07,2023-03-26 22:59:42
+80,female,0,en,online,1555.87,85,"Price-sensitive, often uses coupons and promo codes.",2023-07-04 11:14:03,2023-11-07 11:48:46
+81,male,1,fr,online,500.53,70,"Price-sensitive, often uses coupons and promo codes.",2025-06-07 05:08:11,2025-10-02 19:57:45
+82,male,1,en,both,1021.82,69,"Price-sensitive, often uses coupons and promo codes.",2024-03-15 10:23:27,2024-05-14 15:16:17
+83,female,1,en,both,1715.62,23,"New customer, limited history so far.",2025-11-17 10:11:45,2026-04-18 14:51:22
+84,female,0,en,store,1668.89,32,"Frequent online shopper, responds well to email campaigns.",2024-05-30 22:40:13,2024-11-19 18:35:50
+85,male,1,en,store,368.12,87,,2024-03-22 20:23:36,2024-09-05 14:31:56
+86,male,1,pt,online,495.30,2,Prefers in-store pickup and weekend promotions.,2023-05-06 15:57:26,2023-07-19 17:29:01
+87,female,1,en,online,1863.89,10,Prefers in-store pickup and weekend promotions.,2024-11-16 13:28:36,2025-01-18 14:16:56
+88,female,0,en,both,1858.55,64,"Price-sensitive, often uses coupons and promo codes.",2023-09-27 18:20:51,2023-11-05 22:10:23
+89,female,1,en,store,340.14,99,"New customer, limited history so far.",2023-08-09 07:40:39,2023-09-03 05:21:39
+90,male,1,en,online,15.06,90,High-value customer with stable purchasing pattern.,2024-06-04 17:20:54,2024-07-18 08:47:41
+91,female,0,en,both,295.87,16,"Frequent online shopper, responds well to email campaigns.",2024-02-17 16:26:52,2024-05-09 19:05:27
+92,other,1,en,online,72.36,40,,2023-06-19 23:15:26,2023-08-16 06:42:28
+93,female,1,en,online,674.15,50,"Frequent online shopper, responds well to email campaigns.",2023-01-25 22:40:14,2023-07-13 05:17:33
+94,female,0,en,store,540.93,57,"New customer, limited history so far.",2023-07-31 03:14:04,2023-08-09 08:47:12
+95,male,0,en,store,212.08,39,"Price-sensitive, often uses coupons and promo codes.",2024-03-06 21:14:32,2024-06-02 02:50:13
+96,male,1,en,store,14.74,66,"Frequent online shopper, responds well to email campaigns.",2023-11-09 10:14:10,2023-12-14 15:56:20
+97,male,1,pt,online,445.55,64,"Frequent online shopper, responds well to email campaigns.",2023-02-10 10:40:33,2023-06-07 17:26:10
+98,male,1,pt,online,135.53,61,Prefers in-store pickup and weekend promotions.,2024-02-29 10:05:54,2024-07-01 06:03:14
+99,female,1,en,store,1293.46,2,,2023-10-01 12:33:47,2024-03-01 12:43:09
+100,female,1,es,both,1024.31,71,High-value customer with stable purchasing pattern.,2024-04-23 13:00:17,2024-05-02 18:27:59
+101,male,1,pt,both,1668.32,20,High-value customer with stable purchasing pattern.,2024-09-24 12:27:02,2024-09-29 03:59:14
+102,male,1,en,store,427.22,88,"New customer, limited history so far.",2023-04-30 23:35:51,2023-08-12 07:18:41
+103,male,1,pt,online,548.86,80,"Price-sensitive, often uses coupons and promo codes.",2025-09-03 01:53:08,2025-11-19 00:41:50
+104,other,1,pt,online,52.60,84,,2025-06-17 15:04:49,2025-12-11 08:24:51
+105,female,1,en,online,116.85,55,,2025-01-25 19:20:02,2025-06-22 02:41:40
+106,male,0,en,both,374.64,94,"Frequent online shopper, responds well to email campaigns.",2025-04-21 12:15:33,2025-10-11 16:30:17
+107,prefer_not_to_say,0,en,store,1295.13,75,,2025-07-09 23:40:01,2025-07-27 18:21:51
+108,male,1,en,online,202.55,87,"New customer, limited history so far.",2024-09-26 22:27:19,2025-02-04 03:13:35
+109,female,1,en,store,1645.03,12,High-value customer with stable purchasing pattern.,2023-04-12 07:57:55,2023-09-09 08:59:14
+110,male,1,en,online,1304.36,93,Prefers in-store pickup and weekend promotions.,2024-09-14 00:40:55,2024-10-29 00:47:56
+111,other,1,pt,both,257.51,28,High-value customer with stable purchasing pattern.,2024-01-29 20:39:11,2024-02-08 15:36:38
+112,female,1,en,both,784.61,13,High-value customer with stable purchasing pattern.,2023-11-02 03:26:14,2024-04-27 09:31:52
+113,male,1,en,online,644.45,87,Prefers in-store pickup and weekend promotions.,2024-09-06 06:24:53,2025-01-12 05:46:01
+114,female,1,en,online,178.38,68,"Price-sensitive, often uses coupons and promo codes.",2024-05-01 03:27:11,2024-09-09 15:14:15
+115,female,1,en,online,1044.34,28,"Price-sensitive, often uses coupons and promo codes.",2023-09-21 10:10:57,2024-01-08 19:24:42
+116,prefer_not_to_say,1,en,both,482.79,22,,2025-03-02 23:28:37,2025-07-11 05:28:13
+117,male,0,en,store,5.53,90,Prefers in-store pickup and weekend promotions.,2024-01-10 01:36:14,2024-01-15 14:00:37
+118,female,0,en,online,10.00,60,,2025-08-14 04:02:00,2025-09-24 15:05:42
+119,prefer_not_to_say,0,en,store,480.99,66,"Frequent online shopper, responds well to email campaigns.",2025-08-21 14:44:30,2026-02-15 10:46:55
+120,female,1,pt,online,1498.76,15,High-value customer with stable purchasing pattern.,2024-05-26 22:58:37,2024-09-14 07:28:47
+121,female,1,pt,store,1507.69,78,"Frequent online shopper, responds well to email campaigns.",2025-08-30 06:50:24,2025-11-26 03:03:55
+122,male,1,en,online,311.95,11,"Price-sensitive, often uses coupons and promo codes.",2023-04-16 02:20:43,2023-05-29 03:40:03
+123,female,1,en,both,612.96,40,High-value customer with stable purchasing pattern.,2023-10-07 13:02:58,2024-03-20 05:55:37
+124,male,1,pt,online,1420.06,35,"New customer, limited history so far.",2023-01-22 02:34:28,2023-05-18 21:38:26
+125,male,1,pt,both,1.79,91,"Frequent online shopper, responds well to email campaigns.",2024-04-01 12:51:09,2024-05-07 15:31:25
+126,female,1,en,online,657.57,42,"Price-sensitive, often uses coupons and promo codes.",2024-10-08 09:48:56,2025-02-21 22:48:08
+127,male,1,en,store,1706.62,38,"Frequent online shopper, responds well to email campaigns.",2025-07-21 04:56:06,2025-12-04 06:22:49
+128,male,1,en,online,1070.80,68,"Price-sensitive, often uses coupons and promo codes.",2024-08-29 22:03:14,2024-10-02 09:58:15
+129,male,1,en,online,1491.58,20,"Frequent online shopper, responds well to email campaigns.",2023-08-07 08:20:52,2023-08-24 04:24:13
+130,other,0,en,online,1.38,89,High-value customer with stable purchasing pattern.,2023-04-07 19:46:32,2023-04-19 21:00:29
+131,prefer_not_to_say,1,en,store,436.56,88,Prefers in-store pickup and weekend promotions.,2024-11-03 21:48:55,2025-01-20 23:14:37
+132,female,1,pt,both,1888.23,71,"Price-sensitive, often uses coupons and promo codes.",2023-05-19 13:16:41,2023-06-01 03:05:53
+133,male,1,en,online,170.41,71,Prefers in-store pickup and weekend promotions.,2024-12-24 14:56:00,2025-06-02 10:33:09
+134,female,1,pt,both,1192.69,58,"Frequent online shopper, responds well to email campaigns.",2023-11-07 10:03:34,2024-04-18 08:50:52
+135,male,1,en,online,86.51,90,"Frequent online shopper, responds well to email campaigns.",2023-02-12 11:41:50,2023-07-22 20:39:28
+136,female,0,en,both,1532.09,80,Prefers in-store pickup and weekend promotions.,2024-09-29 20:41:22,2024-11-07 11:24:05
+137,male,0,en,online,1866.11,82,"Price-sensitive, often uses coupons and promo codes.",2023-08-22 17:43:08,2024-01-15 08:35:22
+138,prefer_not_to_say,1,en,online,746.89,72,"Price-sensitive, often uses coupons and promo codes.",2024-05-25 05:30:48,2024-05-31 10:31:08
+139,male,1,en,both,21.71,2,Prefers in-store pickup and weekend promotions.,2023-11-26 14:18:57,2024-02-20 23:36:10
+140,female,1,en,both,107.63,91,High-value customer with stable purchasing pattern.,2024-11-19 09:15:46,2025-02-01 02:47:06
+141,male,0,en,both,384.19,24,"Price-sensitive, often uses coupons and promo codes.",2024-08-24 10:32:32,2025-01-31 13:52:11
+142,male,0,pt,store,1441.12,7,High-value customer with stable purchasing pattern.,2023-03-15 00:34:27,2023-07-08 01:00:23
+143,female,1,en,both,233.91,22,"Price-sensitive, often uses coupons and promo codes.",2025-07-10 04:29:40,2026-01-05 15:07:09
+144,male,1,en,online,955.21,8,"Price-sensitive, often uses coupons and promo codes.",2024-05-12 09:48:48,2024-11-06 03:46:12
+145,male,1,en,online,48.53,75,Prefers in-store pickup and weekend promotions.,2024-03-23 06:52:57,2024-04-24 17:55:07
+146,male,1,pt,both,1374.41,43,"Frequent online shopper, responds well to email campaigns.",2023-09-19 20:11:03,2024-01-22 14:39:41
+147,female,1,en,online,351.74,12,"Frequent online shopper, responds well to email campaigns.",2023-04-10 09:08:42,2023-07-03 20:31:50
+148,female,1,en,online,83.14,6,,2023-03-08 23:02:37,2023-07-17 21:45:46
+149,male,1,pt,store,2.23,16,"New customer, limited history so far.",2023-04-03 17:35:14,2023-05-09 23:55:21
+150,female,1,en,store,72.21,23,Prefers in-store pickup and weekend promotions.,2023-03-25 02:15:59,2023-04-16 19:44:47
+151,female,1,en,both,816.50,69,"Price-sensitive, often uses coupons and promo codes.",2024-11-04 12:12:07,2025-04-13 10:14:39
+152,female,1,en,both,1596.37,33,Prefers in-store pickup and weekend promotions.,2024-11-08 22:03:30,2024-11-19 09:12:41
+153,prefer_not_to_say,1,en,store,454.38,51,"Frequent online shopper, responds well to email campaigns.",2023-04-22 15:02:22,2023-06-11 18:19:57
+154,female,0,en,online,1083.65,20,Prefers in-store pickup and weekend promotions.,2023-05-02 19:40:08,2023-05-21 09:24:57
+155,female,1,pt,both,1078.64,21,"New customer, limited history so far.",2025-10-23 23:13:42,2026-04-17 00:38:47
+156,male,1,en,online,1039.55,64,"New customer, limited history so far.",2023-09-26 13:01:35,2023-10-06 01:50:16
+157,female,1,en,both,392.92,63,Prefers in-store pickup and weekend promotions.,2024-09-17 21:18:34,2024-12-10 11:09:18
+158,male,1,en,store,4.81,32,High-value customer with stable purchasing pattern.,2025-07-21 11:38:57,2025-07-26 14:03:45
+159,female,1,en,online,330.40,77,"New customer, limited history so far.",2023-03-19 14:34:26,2023-06-14 17:32:11
+160,male,0,en,store,296.29,58,"New customer, limited history so far.",2023-03-21 05:25:47,2023-08-17 13:29:57
+161,male,1,fr,both,603.13,69,"New customer, limited history so far.",2023-12-14 13:26:54,2024-02-24 13:40:54
+162,male,1,pt,store,962.11,74,"Frequent online shopper, responds well to email campaigns.",2024-01-25 17:58:30,2024-03-21 10:41:54
+163,female,1,en,both,1984.52,16,"New customer, limited history so far.",2025-09-20 17:27:21,2026-02-22 22:40:44
+164,female,0,en,online,1317.17,72,,2025-09-09 09:19:55,2026-01-09 08:36:53
+165,prefer_not_to_say,0,en,online,646.21,67,,2025-05-01 20:08:40,2025-06-28 12:32:00
+166,male,0,en,online,323.35,25,"Price-sensitive, often uses coupons and promo codes.",2023-12-07 00:56:41,2024-05-05 08:32:03
+167,male,0,pt,online,0.02,58,,2025-06-06 22:44:18,2025-09-18 19:03:57
+168,male,1,en,store,402.86,6,"New customer, limited history so far.",2024-12-21 06:16:48,2025-01-20 05:00:20
+169,female,1,pt,both,1015.50,56,"Price-sensitive, often uses coupons and promo codes.",2025-10-28 09:56:20,2026-01-29 14:00:49
+170,male,1,pt,store,1050.85,43,,2023-03-19 15:15:52,2023-06-01 18:27:56
+171,female,1,en,both,351.92,91,,2024-03-03 19:22:26,2024-06-15 07:59:03
+172,female,1,fr,online,1659.17,46,,2024-06-19 23:08:46,2024-11-17 22:14:13
+173,female,1,en,online,4.06,15,,2023-10-06 15:27:09,2024-02-23 07:25:08
+174,female,0,en,online,63.88,13,High-value customer with stable purchasing pattern.,2023-02-01 22:34:03,2023-02-06 16:20:58
+175,male,0,en,both,1992.48,73,"Price-sensitive, often uses coupons and promo codes.",2023-07-09 18:12:39,2023-10-16 12:13:04
+176,female,1,pt,both,123.08,56,"Price-sensitive, often uses coupons and promo codes.",2024-12-29 16:06:54,2025-04-17 09:04:38
+177,male,0,pt,online,970.48,37,High-value customer with stable purchasing pattern.,2025-04-06 12:09:22,2025-07-22 17:03:40
+178,female,0,es,both,1734.71,80,"Frequent online shopper, responds well to email campaigns.",2023-11-19 04:17:12,2024-01-07 00:49:59
+179,male,0,en,both,25.86,20,"Price-sensitive, often uses coupons and promo codes.",2025-09-09 16:31:24,2026-02-17 02:05:22
+180,male,1,en,online,25.19,43,"Price-sensitive, often uses coupons and promo codes.",2023-11-30 07:47:43,2023-12-28 07:30:15
+181,male,1,en,online,124.19,47,"Frequent online shopper, responds well to email campaigns.",2025-03-19 21:53:01,2025-04-26 16:06:03
+182,female,1,en,online,824.26,32,High-value customer with stable purchasing pattern.,2023-04-08 18:11:08,2023-05-14 06:18:30
+183,female,1,en,both,1361.78,91,"New customer, limited history so far.",2025-10-21 11:25:37,2026-02-27 09:18:50
+184,female,0,en,online,0.19,46,,2025-11-04 02:18:41,2026-04-11 09:47:38
+185,female,1,en,online,1719.55,72,Prefers in-store pickup and weekend promotions.,2023-07-10 01:01:19,2023-08-02 02:51:49
+186,female,1,pt,store,126.13,93,Prefers in-store pickup and weekend promotions.,2024-11-26 09:07:37,2025-02-12 01:14:51
+187,male,1,es,both,5.29,16,,2024-02-25 16:41:02,2024-07-06 09:23:31
+188,male,1,fr,store,1035.75,73,Prefers in-store pickup and weekend promotions.,2024-07-21 04:49:33,2024-10-12 08:40:42
+189,other,1,en,online,1176.92,80,High-value customer with stable purchasing pattern.,2023-12-12 14:11:59,2024-05-01 22:34:31
+190,female,1,en,online,143.39,23,High-value customer with stable purchasing pattern.,2024-01-27 08:13:51,2024-04-18 16:53:08
+191,female,1,pt,store,453.09,38,High-value customer with stable purchasing pattern.,2023-01-02 17:35:45,2023-06-27 18:00:59
+192,male,1,en,online,895.98,69,,2023-08-09 07:08:38,2023-12-10 11:51:29
+193,female,0,en,store,0.42,13,,2023-03-22 06:23:18,2023-06-11 05:02:45
+194,female,1,pt,store,287.03,77,"Frequent online shopper, responds well to email campaigns.",2025-05-10 16:52:01,2025-06-13 12:23:23
+195,male,1,pt,both,1034.31,81,"Price-sensitive, often uses coupons and promo codes.",2025-04-21 13:29:09,2025-05-18 21:43:55
+196,female,1,en,online,0.02,18,,2025-03-20 09:10:33,2025-08-05 14:53:15
+197,female,1,en,both,456.29,44,High-value customer with stable purchasing pattern.,2024-12-08 12:18:58,2024-12-20 10:26:46
+198,female,1,pt,store,1592.93,70,"New customer, limited history so far.",2023-12-27 20:06:41,2024-06-20 23:05:01
+199,female,1,en,online,412.51,79,Prefers in-store pickup and weekend promotions.,2023-01-29 16:18:09,2023-02-17 03:54:33
+200,male,1,pt,online,250.40,50,,2023-01-05 01:30:50,2023-06-22 12:56:53
+201,male,0,es,store,258.94,21,"Frequent online shopper, responds well to email campaigns.",2024-06-25 17:26:09,2024-09-13 17:29:16
+202,female,0,en,online,1701.66,44,,2025-11-02 17:30:36,2025-11-08 15:41:04
+203,female,0,es,both,2.54,99,,2025-09-19 22:08:25,2025-09-21 02:30:15
+204,male,1,en,online,1008.19,98,High-value customer with stable purchasing pattern.,2024-11-17 04:47:45,2025-05-15 20:10:30
+205,female,1,en,both,785.31,61,"New customer, limited history so far.",2025-04-06 17:15:51,2025-06-14 11:15:31
+206,female,1,en,online,1168.35,82,Prefers in-store pickup and weekend promotions.,2023-12-09 08:08:07,2024-01-20 04:57:41
+207,male,1,en,store,211.23,40,Prefers in-store pickup and weekend promotions.,2023-09-25 08:05:38,2023-11-08 12:10:36
+208,male,1,en,online,1935.73,56,"New customer, limited history so far.",2024-05-02 23:59:55,2024-06-13 00:48:59
+209,male,0,en,both,13.19,24,"New customer, limited history so far.",2023-10-11 17:42:32,2023-12-04 06:46:48
+210,female,0,en,online,78.41,57,"Frequent online shopper, responds well to email campaigns.",2024-11-27 03:46:32,2025-01-23 09:24:40
+211,male,1,es,store,1386.74,81,Prefers in-store pickup and weekend promotions.,2023-01-09 08:13:18,2023-02-28 12:30:08
+212,female,1,en,both,1318.03,28,High-value customer with stable purchasing pattern.,2025-08-09 06:37:29,2026-01-27 12:24:23
+213,female,1,en,store,104.92,33,High-value customer with stable purchasing pattern.,2024-12-20 16:39:00,2025-04-30 05:16:09
+214,male,0,en,store,1573.91,50,"Frequent online shopper, responds well to email campaigns.",2025-05-02 01:11:32,2025-05-10 04:36:42
+215,male,0,pt,online,173.53,46,Prefers in-store pickup and weekend promotions.,2023-03-24 04:54:11,2023-07-14 04:28:46
+216,female,0,en,online,1557.23,29,"New customer, limited history so far.",2024-02-29 16:30:14,2024-08-18 09:32:18
+217,male,1,en,store,613.08,47,"Price-sensitive, often uses coupons and promo codes.",2025-07-28 22:38:36,2026-01-09 01:58:17
+218,female,1,en,store,1348.09,20,"New customer, limited history so far.",2023-09-27 10:00:32,2023-11-28 00:00:41
+219,male,1,en,online,1869.72,13,"New customer, limited history so far.",2025-03-29 07:26:28,2025-06-15 04:04:01
+220,male,0,en,both,115.56,8,"Frequent online shopper, responds well to email campaigns.",2024-06-21 03:58:33,2024-07-16 11:58:45
+221,female,1,pt,store,434.86,15,"Price-sensitive, often uses coupons and promo codes.",2024-12-03 03:57:06,2025-02-15 12:55:40
+222,female,1,pt,store,796.40,18,,2024-11-06 08:42:03,2025-04-24 04:16:01
+223,male,1,en,online,4.76,32,"Frequent online shopper, responds well to email campaigns.",2024-08-10 02:02:19,2024-10-08 17:15:40
+224,female,0,pt,online,8.65,29,"Frequent online shopper, responds well to email campaigns.",2024-05-24 02:19:20,2024-10-20 16:02:13
+225,female,1,en,store,876.47,59,"Price-sensitive, often uses coupons and promo codes.",2023-12-07 23:02:46,2024-04-29 12:09:19
+226,female,0,en,online,537.74,53,"Frequent online shopper, responds well to email campaigns.",2023-05-10 06:14:26,2023-08-14 11:37:02
+227,female,1,en,store,399.24,42,Prefers in-store pickup and weekend promotions.,2024-11-05 19:41:46,2025-03-02 13:45:24
+228,female,0,en,online,851.12,9,High-value customer with stable purchasing pattern.,2024-10-03 20:37:02,2024-10-13 11:05:36
+229,male,1,pt,online,1246.15,33,"Price-sensitive, often uses coupons and promo codes.",2024-10-14 07:24:42,2025-03-15 00:26:22
+230,male,1,en,online,0.52,57,"Frequent online shopper, responds well to email campaigns.",2023-10-04 10:05:54,2023-11-05 08:48:29
+231,female,1,pt,both,11.92,74,High-value customer with stable purchasing pattern.,2025-04-03 12:48:52,2025-05-31 15:38:36
+232,female,0,en,online,90.89,96,Prefers in-store pickup and weekend promotions.,2025-04-07 14:28:48,2025-05-27 21:43:47
+233,female,1,pt,online,147.20,41,"Price-sensitive, often uses coupons and promo codes.",2025-05-18 23:16:19,2025-06-29 11:30:56
+234,prefer_not_to_say,1,en,online,845.33,100,"Price-sensitive, often uses coupons and promo codes.",2023-02-08 21:57:17,2023-06-12 05:25:50
+235,male,1,en,online,1357.44,3,"Frequent online shopper, responds well to email campaigns.",2024-10-22 11:14:42,2025-02-25 02:45:54
+236,male,1,en,store,584.36,46,High-value customer with stable purchasing pattern.,2025-09-22 06:45:38,2025-12-09 04:52:18
+237,female,1,en,both,58.72,81,,2025-08-08 05:21:40,2025-11-07 01:51:51
+238,female,1,en,online,750.95,91,Prefers in-store pickup and weekend promotions.,2023-09-23 03:48:59,2023-11-28 06:04:14
+239,male,1,pt,both,1692.27,17,Prefers in-store pickup and weekend promotions.,2023-06-17 00:35:52,2023-09-10 14:49:18
+240,male,1,en,online,224.83,53,Prefers in-store pickup and weekend promotions.,2024-05-02 21:54:55,2024-07-03 10:43:38
+241,male,1,en,online,865.24,84,"Frequent online shopper, responds well to email campaigns.",2024-09-19 17:27:31,2024-11-08 10:03:40
+242,female,1,en,online,1078.92,58,"Price-sensitive, often uses coupons and promo codes.",2024-04-16 06:31:51,2024-07-23 15:09:52
+243,male,1,en,online,46.52,13,High-value customer with stable purchasing pattern.,2024-06-20 23:39:57,2024-10-05 12:34:02
+244,other,1,pt,online,67.25,99,"Frequent online shopper, responds well to email campaigns.",2024-01-28 08:48:39,2024-05-18 22:56:21
+245,female,1,en,online,219.55,61,"New customer, limited history so far.",2025-02-11 07:20:24,2025-05-22 12:20:28
+246,female,0,en,both,1928.43,42,"New customer, limited history so far.",2023-06-28 09:11:02,2023-07-02 23:32:21
+247,male,1,en,store,193.11,52,"Frequent online shopper, responds well to email campaigns.",2023-09-23 02:52:01,2023-09-27 15:44:57
+248,female,1,en,both,858.21,98,High-value customer with stable purchasing pattern.,2023-04-25 19:10:40,2023-09-07 09:22:14
+249,female,0,en,store,1473.48,76,,2024-02-19 15:27:39,2024-05-28 04:18:53
+250,female,0,en,store,1234.63,79,High-value customer with stable purchasing pattern.,2023-06-07 20:35:34,2023-06-25 09:02:17
